@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:55:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 23:55:14 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>11. The Battle That Wasn't? Talas, 751</title>
+      <itunes:title>The Battle That Wasn't? Talas, 751</itunes:title>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep11</guid>
+      <pubDate>Sat, 17 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/11-the-battle-that-wasnt.mp3" length="27428025" type="audio/mpeg"/>
+      <itunes:duration>3422</itunes:duration>
+      <description><![CDATA[<p>Did the Battle of Talas matter? A frontier clash the Arabic chronicles forgot, a Korean-born Tang general, the Karluk defection, Du Huan's captivity in the caliphate, the paper myth, An Lushan, and six national memories of one afternoon in 751.</p><p><a href="https://claude.ai/code/artifact/65af0f8d-2bc8-4090-84a7-4af04bf3cb9f">Script and sources</a></p>]]></description>
+      <itunes:summary>Did the Battle of Talas matter? A frontier clash the Arabic chronicles forgot, a Korean-born Tang general, the Karluk defection, Du Huan's captivity in the caliphate, the paper myth, An Lushan, and six national memories of one afternoon in 751.
+
+Script and sources: https://claude.ai/code/artifact/65af0f8d-2bc8-4090-84a7-4af04bf3cb9f</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/65af0f8d-2bc8-4090-84a7-4af04bf3cb9f</link>
+    </item>
     <item>
       <title>10. Empire of the Straits?</title>
       <itunes:title>Empire of the Straits?</itunes:title>
