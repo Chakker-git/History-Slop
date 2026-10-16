@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:41:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:41:49 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,54 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>6. Point Taken</title>
+      <itunes:title>Point Taken</itunes:title>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep06</guid>
+      <pubDate>Tue, 06 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/06-point-taken.mp3" length="23282018" type="audio/mpeg"/>
+      <itunes:duration>2904</itunes:duration>
+      <description><![CDATA[<p>Why swordsmanship moved from the longsword and the judicial duel to the rapier and the private duel of honour, and why the change was social rather than technical.</p><p><a href="https://claude.ai/code/artifact/183817a7-e651-46c8-8a7c-01ee08e06e7a">Script and sources</a></p>]]></description>
+      <itunes:summary>Why swordsmanship moved from the longsword and the judicial duel to the rapier and the private duel of honour, and why the change was social rather than technical.
+
+Script and sources: https://claude.ai/code/artifact/183817a7-e651-46c8-8a7c-01ee08e06e7a</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/183817a7-e651-46c8-8a7c-01ee08e06e7a</link>
+    </item>
+    <item>
+      <title>5. The Art of Fighting</title>
+      <itunes:title>The Art of Fighting</itunes:title>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep05</guid>
+      <pubDate>Mon, 05 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/05-the-art-of-fighting.mp3" length="24583605" type="audio/mpeg"/>
+      <itunes:duration>3065</itunes:duration>
+      <description><![CDATA[<p>What medieval fight books were actually for, and how far they and the battlefield graves of Visby, Towton and Aljubarrota show how people really fought.</p><p><a href="https://claude.ai/code/artifact/6b04f6af-e998-41af-a0cb-6154012bf255">Script and sources</a></p>]]></description>
+      <itunes:summary>What medieval fight books were actually for, and how far they and the battlefield graves of Visby, Towton and Aljubarrota show how people really fought.
+
+Script and sources: https://claude.ai/code/artifact/6b04f6af-e998-41af-a0cb-6154012bf255</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/6b04f6af-e998-41af-a0cb-6154012bf255</link>
+    </item>
+    <item>
+      <title>4. The Bottomless Well</title>
+      <itunes:title>The Bottomless Well</itunes:title>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep04</guid>
+      <pubDate>Sun, 04 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/04-the-bottomless-well.mp3" length="25990756" type="audio/mpeg"/>
+      <itunes:duration>3238</itunes:duration>
+      <description><![CDATA[<p>Why the Republic regenerated after Cannae while the late empire spent decades in crisis after Adrianople. Short version: it wasn't grit. It was whether the core that paid for and filled the army survived.</p><p><a href="https://claude.ai/code/artifact/38dcbdbe-f8e6-42c1-b5f2-515817df4963">Script and sources</a></p>]]></description>
+      <itunes:summary>Why the Republic regenerated after Cannae while the late empire spent decades in crisis after Adrianople. Short version: it wasn't grit. It was whether the core that paid for and filled the army survived.
+
+Script and sources: https://claude.ai/code/artifact/38dcbdbe-f8e6-42c1-b5f2-515817df4963</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/38dcbdbe-f8e6-42c1-b5f2-515817df4963</link>
+    </item>
     <item>
       <title>3. Barbarians at the Standards</title>
       <itunes:title>Barbarians at the Standards</itunes:title>
