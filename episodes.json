@@ -1,0 +1,84 @@
+{
+  "show": {
+    "title": "History Slop",
+    "author": "Anna & Rune",
+    "base_url": "https://chakker-git.github.io/History-Slop/",
+    "language": "en",
+    "category": "History",
+    "summary": "Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework."
+  },
+  "episodes": [
+    {
+      "n": 1,
+      "title": "Thirty Years' War Tactics",
+      "date": "2026-10-01",
+      "file": "episodes/01-thirty-years-war-tactics.mp3",
+      "script": "https://claude.ai/code/artifact/e8c9683f-ed02-4930-b23a-888bfe3a0cce",
+      "summary": "How tactics and operations evolved in the Thirty Years' War."
+    },
+    {
+      "n": 2,
+      "title": "Greeks vs Persia",
+      "date": "2026-10-02",
+      "file": "episodes/02-greeks-vs-persia.mp3",
+      "script": "https://claude.ai/code/artifact/ad0a9df6-5835-4155-a8a6-8c0cbfbd9c1e",
+      "summary": "Why the Greeks beat Persia, and how they kept a military edge for a century afterwards."
+    },
+    {
+      "n": 3,
+      "title": "Barbarians at the Standards",
+      "date": "2026-10-03",
+      "file": "episodes/03-barbarians-at-the-standards.mp3",
+      "script": "https://claude.ai/code/artifact/e816331a-4798-4652-83dd-4eb50d2e2c2b",
+      "summary": "Was the late Roman army \"barbarized\", and did that make it worse or less loyal?"
+    },
+    {
+      "n": 4,
+      "title": "The Bottomless Well",
+      "date": "2026-10-04",
+      "file": "episodes/04-the-bottomless-well.mp3",
+      "script": "https://claude.ai/code/artifact/38dcbdbe-f8e6-42c1-b5f2-515817df4963",
+      "summary": "Why the Republic regenerated after Cannae while the late empire spent decades in crisis after Adrianople. Short version: it wasn't grit. It was whether the core that paid for and filled the army survived."
+    },
+    {
+      "n": 5,
+      "title": "The Art of Fighting",
+      "date": "2026-10-05",
+      "file": "episodes/05-the-art-of-fighting.mp3",
+      "script": "https://claude.ai/code/artifact/6b04f6af-e998-41af-a0cb-6154012bf255",
+      "summary": "What medieval fight books were actually for, and how far they and the battlefield graves of Visby, Towton and Aljubarrota show how people really fought."
+    },
+    {
+      "n": 6,
+      "title": "Point Taken",
+      "date": "2026-10-06",
+      "file": "episodes/06-point-taken.mp3",
+      "script": "https://claude.ai/code/artifact/183817a7-e651-46c8-8a7c-01ee08e06e7a",
+      "summary": "Why swordsmanship moved from the longsword and the judicial duel to the rapier and the private duel of honour, and why the change was social rather than technical."
+    },
+    {
+      "n": 7,
+      "title": "Stakes in the River",
+      "date": "2026-10-07",
+      "file": "episodes/07-stakes-in-the-river.mp3",
+      "script": "https://claude.ai/code/artifact/a72f1654-2786-4371-a210-4eca5c33f7f0",
+      "summary": "Why the Mongols and the Yuan failed in Đại Việt, Champa, Burma and Java (1257–1303): monsoon, malaria, improvised fleets, the stakes at Bạch Đằng, and local rulers who used the invaders for their own ends."
+    },
+    {
+      "n": 8,
+      "title": "Did Water Kill Angkor?",
+      "date": "2026-10-08",
+      "file": "episodes/08-did-water-kill-angkor.mp3",
+      "script": "https://claude.ai/code/artifact/2b5de732-e513-4cee-9d0a-6c065c150da0",
+      "summary": "War, megadrought, a brittle water network, or an elite that drifted away first? Why Angkor faded, and why 'transformation, not collapse' is the better story."
+    },
+    {
+      "n": 9,
+      "title": "Fire from the South",
+      "date": "2026-10-09",
+      "file": "episodes/09-fire-from-the-south.mp3",
+      "script": "https://claude.ai/code/artifact/f0620597-5e96-4f97-bb40-6fa61ebfa9ba",
+      "summary": "Was there a military revolution in Southeast Asia, c. 1390–1620? Ming guns in the Shan hills, Đại Việt as a gunpowder state, foreign gunners in Burma and Siam, and one connected Eurasian gunpowder age."
+    }
+  ]
+}
