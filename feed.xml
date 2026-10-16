@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:55:11 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>10. Empire of the Straits?</title>
+      <itunes:title>Empire of the Straits?</itunes:title>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep10</guid>
+      <pubDate>Fri, 16 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/10-empire-of-the-straits.mp3" length="28328462" type="audio/mpeg"/>
+      <itunes:duration>3533</itunes:duration>
+      <description><![CDATA[<p>Srivijaya: empire or network? Yijing's Sumatran monastery, curse stones and Old Malay oaths, a wooden port in the swamps, the Belitung wreck, the Sanfoqi debate in Japanese and Chinese scholarship, and the Chola raid of 1025.</p><p><a href="https://claude.ai/code/artifact/d4222f08-de64-4c95-955a-67c7bbdd1771">Script and sources</a></p>]]></description>
+      <itunes:summary>Srivijaya: empire or network? Yijing's Sumatran monastery, curse stones and Old Malay oaths, a wooden port in the swamps, the Belitung wreck, the Sanfoqi debate in Japanese and Chinese scholarship, and the Chola raid of 1025.
+
+Script and sources: https://claude.ai/code/artifact/d4222f08-de64-4c95-955a-67c7bbdd1771</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/d4222f08-de64-4c95-955a-67c7bbdd1771</link>
+    </item>
     <item>
       <title>9. Fire from the South</title>
       <itunes:title>Fire from the South</itunes:title>
