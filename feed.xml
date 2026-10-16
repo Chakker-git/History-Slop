@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:41:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:42:50 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,54 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>9. Fire from the South</title>
+      <itunes:title>Fire from the South</itunes:title>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep09</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/09-fire-from-the-south.mp3" length="28891283" type="audio/mpeg"/>
+      <itunes:duration>3603</itunes:duration>
+      <description><![CDATA[<p>Was there a military revolution in Southeast Asia, c. 1390–1620? Ming guns in the Shan hills, Đại Việt as a gunpowder state, foreign gunners in Burma and Siam, and one connected Eurasian gunpowder age.</p><p><a href="https://claude.ai/code/artifact/f0620597-5e96-4f97-bb40-6fa61ebfa9ba">Script and sources</a></p>]]></description>
+      <itunes:summary>Was there a military revolution in Southeast Asia, c. 1390–1620? Ming guns in the Shan hills, Đại Việt as a gunpowder state, foreign gunners in Burma and Siam, and one connected Eurasian gunpowder age.
+
+Script and sources: https://claude.ai/code/artifact/f0620597-5e96-4f97-bb40-6fa61ebfa9ba</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/f0620597-5e96-4f97-bb40-6fa61ebfa9ba</link>
+    </item>
+    <item>
+      <title>8. Did Water Kill Angkor?</title>
+      <itunes:title>Did Water Kill Angkor?</itunes:title>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep08</guid>
+      <pubDate>Thu, 08 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/08-did-water-kill-angkor.mp3" length="25235560" type="audio/mpeg"/>
+      <itunes:duration>3147</itunes:duration>
+      <description><![CDATA[<p>War, megadrought, a brittle water network, or an elite that drifted away first? Why Angkor faded, and why 'transformation, not collapse' is the better story.</p><p><a href="https://claude.ai/code/artifact/2b5de732-e513-4cee-9d0a-6c065c150da0">Script and sources</a></p>]]></description>
+      <itunes:summary>War, megadrought, a brittle water network, or an elite that drifted away first? Why Angkor faded, and why 'transformation, not collapse' is the better story.
+
+Script and sources: https://claude.ai/code/artifact/2b5de732-e513-4cee-9d0a-6c065c150da0</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/2b5de732-e513-4cee-9d0a-6c065c150da0</link>
+    </item>
+    <item>
+      <title>7. Stakes in the River</title>
+      <itunes:title>Stakes in the River</itunes:title>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep07</guid>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/07-stakes-in-the-river.mp3" length="25390285" type="audio/mpeg"/>
+      <itunes:duration>3166</itunes:duration>
+      <description><![CDATA[<p>Why the Mongols and the Yuan failed in Đại Việt, Champa, Burma and Java (1257–1303): monsoon, malaria, improvised fleets, the stakes at Bạch Đằng, and local rulers who used the invaders for their own ends.</p><p><a href="https://claude.ai/code/artifact/a72f1654-2786-4371-a210-4eca5c33f7f0">Script and sources</a></p>]]></description>
+      <itunes:summary>Why the Mongols and the Yuan failed in Đại Việt, Champa, Burma and Java (1257–1303): monsoon, malaria, improvised fleets, the stakes at Bạch Đằng, and local rulers who used the invaders for their own ends.
+
+Script and sources: https://claude.ai/code/artifact/a72f1654-2786-4371-a210-4eca5c33f7f0</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/a72f1654-2786-4371-a210-4eca5c33f7f0</link>
+    </item>
     <item>
       <title>6. Point Taken</title>
       <itunes:title>Point Taken</itunes:title>
