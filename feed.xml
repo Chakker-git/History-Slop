@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:34:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:41:18 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,53 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>3. Barbarians at the Standards</title>
+      <itunes:title>Barbarians at the Standards</itunes:title>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep03</guid>
+      <pubDate>Sat, 03 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/03-barbarians-at-the-standards.mp3" length="26413959" type="audio/mpeg"/>
+      <itunes:duration>3292</itunes:duration>
+      <description><![CDATA[<p>Was the late Roman army "barbarized", and did that make it worse or less loyal?</p><p><a href="https://claude.ai/code/artifact/e816331a-4798-4652-83dd-4eb50d2e2c2b">Script and sources</a></p>]]></description>
+      <itunes:summary>Was the late Roman army "barbarized", and did that make it worse or less loyal?
 
+Script and sources: https://claude.ai/code/artifact/e816331a-4798-4652-83dd-4eb50d2e2c2b</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/e816331a-4798-4652-83dd-4eb50d2e2c2b</link>
+    </item>
+    <item>
+      <title>2. Bronze and Gold</title>
+      <itunes:title>Bronze and Gold</itunes:title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep02</guid>
+      <pubDate>Fri, 02 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/02-bronze-and-gold.mp3" length="21869789" type="audio/mpeg"/>
+      <itunes:duration>2724</itunes:duration>
+      <description><![CDATA[<p>Why the Greeks beat Persia, and how they kept a military edge for a century afterwards.</p><p><a href="https://claude.ai/code/artifact/ad0a9df6-5835-4155-a8a6-8c0cbfbd9c1e">Script and sources</a></p>]]></description>
+      <itunes:summary>Why the Greeks beat Persia, and how they kept a military edge for a century afterwards.
+
+Script and sources: https://claude.ai/code/artifact/ad0a9df6-5835-4155-a8a6-8c0cbfbd9c1e</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/ad0a9df6-5835-4155-a8a6-8c0cbfbd9c1e</link>
+    </item>
+    <item>
+      <title>1. Pike, Shot &amp; Plunder</title>
+      <itunes:title>Pike, Shot &amp; Plunder</itunes:title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep01</guid>
+      <pubDate>Thu, 01 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/01-pike-shot-and-plunder.mp3" length="24631355" type="audio/mpeg"/>
+      <itunes:duration>3071</itunes:duration>
+      <description><![CDATA[<p>How tactics and operations evolved in the Thirty Years' War.</p><p><a href="https://claude.ai/code/artifact/e8c9683f-ed02-4930-b23a-888bfe3a0cce">Script and sources</a></p>]]></description>
+      <itunes:summary>How tactics and operations evolved in the Thirty Years' War.
+
+Script and sources: https://claude.ai/code/artifact/e8c9683f-ed02-4930-b23a-888bfe3a0cce</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/e8c9683f-ed02-4930-b23a-888bfe3a0cce</link>
+    </item>
   </channel>
 </rss>

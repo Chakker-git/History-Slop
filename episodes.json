@@ -10,17 +10,17 @@
   "episodes": [
     {
       "n": 1,
-      "title": "Thirty Years' War Tactics",
+      "title": "Pike, Shot & Plunder",
       "date": "2026-10-01",
-      "file": "episodes/01-thirty-years-war-tactics.mp3",
+      "file": "episodes/01-pike-shot-and-plunder.mp3",
       "script": "https://claude.ai/code/artifact/e8c9683f-ed02-4930-b23a-888bfe3a0cce",
       "summary": "How tactics and operations evolved in the Thirty Years' War."
     },
     {
       "n": 2,
-      "title": "Greeks vs Persia",
+      "title": "Bronze and Gold",
       "date": "2026-10-02",
-      "file": "episodes/02-greeks-vs-persia.mp3",
+      "file": "episodes/02-bronze-and-gold.mp3",
       "script": "https://claude.ai/code/artifact/ad0a9df6-5835-4155-a8a6-8c0cbfbd9c1e",
       "summary": "Why the Greeks beat Persia, and how they kept a military edge for a century afterwards."
     },
