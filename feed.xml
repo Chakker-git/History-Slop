@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 18:52:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:50:46 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>14. Who Conquered Mexico? The Tlaxcalan Conquest</title>
+      <itunes:title>Who Conquered Mexico? The Tlaxcalan Conquest</itunes:title>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep14</guid>
+      <pubDate>Sat, 17 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/14-tlaxcala.mp3" length="28968708" type="audio/mpeg"/>
+      <itunes:duration>3613</itunes:duration>
+      <description><![CDATA[<p>Was the fall of Tenochtitlan a Spanish conquest or an Indigenous war? Tlaxcala's choice after the Noche Triste, Cholula, Malintzin, smallpox and the brigantines, the view from Tlatelolco, Indian conquistadors, the Lienzo de Tlaxcala, and how Tlaxcala became a byword for treason.</p><p><a href="https://claude.ai/code/artifact/80c4930f-07b3-463d-bc20-b692869ca3da">Script and sources</a></p>]]></description>
+      <itunes:summary>Was the fall of Tenochtitlan a Spanish conquest or an Indigenous war? Tlaxcala's choice after the Noche Triste, Cholula, Malintzin, smallpox and the brigantines, the view from Tlatelolco, Indian conquistadors, the Lienzo de Tlaxcala, and how Tlaxcala became a byword for treason.
+
+Script and sources: https://claude.ai/code/artifact/80c4930f-07b3-463d-bc20-b692869ca3da</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/80c4930f-07b3-463d-bc20-b692869ca3da</link>
+    </item>
     <item>
       <title>13. Heresy Came First? The Many Christianities</title>
       <itunes:title>Heresy Came First? The Many Christianities</itunes:title>
