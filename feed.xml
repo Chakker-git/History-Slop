@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:50:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:19:57 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>15. We Are Hungry: The Deir el-Medina Strike</title>
+      <itunes:title>We Are Hungry: The Deir el-Medina Strike</itunes:title>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep15</guid>
+      <pubDate>Sun, 18 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/15-deir-el-medina.mp3" length="27147536" type="audio/mpeg"/>
+      <itunes:duration>3386</itunes:duration>
+      <description><![CDATA[<p>Silent servants of pharaoh, or striking workers? The royal tomb-builders of Deir el-Medina: grain wages, sick notes and scorpions, the village court and oracle, the villain Paneb, Naunakhte's will, the Turin Strike Papyrus of year 29 of Ramesses III, and the tomb robberies that followed.</p><p><a href="https://claude.ai/code/artifact/c4cb48d2-39c0-4c99-b6e9-0b7175b3ff9f">Script and sources</a></p>]]></description>
+      <itunes:summary>Silent servants of pharaoh, or striking workers? The royal tomb-builders of Deir el-Medina: grain wages, sick notes and scorpions, the village court and oracle, the villain Paneb, Naunakhte's will, the Turin Strike Papyrus of year 29 of Ramesses III, and the tomb robberies that followed.
+
+Script and sources: https://claude.ai/code/artifact/c4cb48d2-39c0-4c99-b6e9-0b7175b3ff9f</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/c4cb48d2-39c0-4c99-b6e9-0b7175b3ff9f</link>
+    </item>
     <item>
       <title>14. Who Conquered Mexico? The Tlaxcalan Conquest</title>
       <itunes:title>Who Conquered Mexico? The Tlaxcalan Conquest</itunes:title>
