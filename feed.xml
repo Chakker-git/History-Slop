@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 13:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:26:25 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>18. The Luminous Religion: The Church of the East in Tang China</title>
+      <itunes:title>The Luminous Religion: The Church of the East in Tang China</itunes:title>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep18</guid>
+      <pubDate>Mon, 19 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/18-church-of-the-east.mp3" length="27558978" type="audio/mpeg"/>
+      <itunes:duration>3437</itunes:duration>
+      <description><![CDATA[<p>Christianity reached China from Persia in 635, a thousand years before the Jesuits. The 'Nestorian' misnomer, Aluoben and the 638 edict, the Xi'an stele of 781, Buddhist-style sutras and a forgery fight, Sogdian Christians on the Luoyang pillar, the persecution of 845, the Mongol revival, and a Danish adventurer who tried to buy the stele.</p><p><a href="https://claude.ai/code/artifact/cfb6f66c-687e-4dfd-8ced-e5d27c01e942">Script and sources</a></p>]]></description>
+      <itunes:summary>Christianity reached China from Persia in 635, a thousand years before the Jesuits. The 'Nestorian' misnomer, Aluoben and the 638 edict, the Xi'an stele of 781, Buddhist-style sutras and a forgery fight, Sogdian Christians on the Luoyang pillar, the persecution of 845, the Mongol revival, and a Danish adventurer who tried to buy the stele.
+
+Script and sources: https://claude.ai/code/artifact/cfb6f66c-687e-4dfd-8ced-e5d27c01e942</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/cfb6f66c-687e-4dfd-8ced-e5d27c01e942</link>
+    </item>
     <item>
       <title>17. The Spring of Goliath: Did Ain Jalut Stop the Mongols?</title>
       <itunes:title>The Spring of Goliath: Did Ain Jalut Stop the Mongols?</itunes:title>
