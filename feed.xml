@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 15:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 05:54:53 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>16. The Miller's Cosmos: Menocchio and The Cheese and the Worms</title>
+      <itunes:title>The Miller's Cosmos: Menocchio and The Cheese and the Worms</itunes:title>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep16</guid>
+      <pubDate>Mon, 19 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/16-menocchio.mp3" length="28908403" type="audio/mpeg"/>
+      <itunes:duration>3606</itunes:duration>
+      <description><![CDATA[<p>A Friulian miller tells the Inquisition that the angels were worms in the cheese of creation. Menocchio's books and how he read them, his two trials and death in 1599, Carlo Ginzburg's microhistory and its critics, the Roman Inquisition beyond the black legend, and the benandanti.</p><p><a href="https://claude.ai/code/artifact/f0871e78-0f05-4e0e-ba29-71d2b1c2e635">Script and sources</a></p>]]></description>
+      <itunes:summary>A Friulian miller tells the Inquisition that the angels were worms in the cheese of creation. Menocchio's books and how he read them, his two trials and death in 1599, Carlo Ginzburg's microhistory and its critics, the Roman Inquisition beyond the black legend, and the benandanti.
+
+Script and sources: https://claude.ai/code/artifact/f0871e78-0f05-4e0e-ba29-71d2b1c2e635</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/f0871e78-0f05-4e0e-ba29-71d2b1c2e635</link>
+    </item>
     <item>
       <title>15. We Are Hungry: The Deir el-Medina Strike</title>
       <itunes:title>We Are Hungry: The Deir el-Medina Strike</itunes:title>
