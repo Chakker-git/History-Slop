@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 15:26:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:31:12 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>19. Peasants into Frenchmen: When Did France Become French?</title>
+      <itunes:title>Peasants into Frenchmen: When Did France Become French?</itunes:title>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep19</guid>
+      <pubDate>Mon, 19 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/19-peasants-into-frenchmen.mp3" length="29787182" type="audio/mpeg"/>
+      <itunes:duration>3716</itunes:duration>
+      <description><![CDATA[<p>Napoleon mistaken for a travelling salesman, a quarter of France not speaking French in 1863, and the schoolroom token of shame. Eugen Weber's thesis that roads, schools and the army made peasants into Frenchmen between 1870 and 1914, his critics on markets, 1851 and identity from below, the Tour de la France par deux enfants, the test of August 1914, and a Tuscan villager who was a proud vassal of his Grand Duke in 1643. First in a series built on Weber and Gregory Hanlon's Human Nature in Rural Tuscany.</p><p><a href="https://claude.ai/code/artifact/75791b93-58bb-449e-970c-49cead55ba11">Script and sources</a></p>]]></description>
+      <itunes:summary>Napoleon mistaken for a travelling salesman, a quarter of France not speaking French in 1863, and the schoolroom token of shame. Eugen Weber's thesis that roads, schools and the army made peasants into Frenchmen between 1870 and 1914, his critics on markets, 1851 and identity from below, the Tour de la France par deux enfants, the test of August 1914, and a Tuscan villager who was a proud vassal of his Grand Duke in 1643. First in a series built on Weber and Gregory Hanlon's Human Nature in Rural Tuscany.
+
+Script and sources: https://claude.ai/code/artifact/75791b93-58bb-449e-970c-49cead55ba11</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/75791b93-58bb-449e-970c-49cead55ba11</link>
+    </item>
     <item>
       <title>18. The Luminous Religion: The Church of the East in Tang China</title>
       <itunes:title>The Luminous Religion: The Church of the East in Tang China</itunes:title>
