@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:47:30 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>23. Up to the Neck in Water: Why Peasants Rebel</title>
+      <itunes:title>Up to the Neck in Water: Why Peasants Rebel</itunes:title>
+      <itunes:episode>23</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep23</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/23-up-to-the-neck-in-water.mp3" length="26403957" type="audio/mpeg"/>
+      <itunes:duration>3293</itunes:duration>
+      <description><![CDATA[<p>Tattooed rebels in Burma and burned tax rolls in Vietnam, 1930. James C. Scott's moral economy of the peasant: the drowning man, safety-first farming, the village as insurance, why fixed rents and head taxes were deadlier than larger shares, the Saya San rising and the Nghe-Tinh soviets, and the case for Samuel Popkin's rational peasant. First in the Scott and Fei series.</p><p><a href="https://claude.ai/code/artifact/40485950-cbe5-4002-9085-f1cf59727816">Script and sources</a></p>]]></description>
+      <itunes:summary>Tattooed rebels in Burma and burned tax rolls in Vietnam, 1930. James C. Scott's moral economy of the peasant: the drowning man, safety-first farming, the village as insurance, why fixed rents and head taxes were deadlier than larger shares, the Saya San rising and the Nghe-Tinh soviets, and the case for Samuel Popkin's rational peasant. First in the Scott and Fei series.
+
+Script and sources: https://claude.ai/code/artifact/40485950-cbe5-4002-9085-f1cf59727816</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/40485950-cbe5-4002-9085-f1cf59727816</link>
+    </item>
     <item>
       <title>22. Knives at the Veglia: How Violent Was the Premodern Village?</title>
       <itunes:title>Knives at the Veglia: How Violent Was the Premodern Village?</itunes:title>
