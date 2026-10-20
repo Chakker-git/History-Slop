@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 09:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:18:47 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>22. Knives at the Veglia: How Violent Was the Premodern Village?</title>
+      <itunes:title>Knives at the Veglia: How Violent Was the Premodern Village?</itunes:title>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep22</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/22-knives-at-the-veglia.mp3" length="27135076" type="audio/mpeg"/>
+      <itunes:duration>3385</itunes:duration>
+      <description><![CDATA[<p>A misfired musket and an axe stopped at a church door. Six centuries of European homicide rates, a Tuscan village's 490 criminal cases, goats and crop damage, insults and the swords of the people, the village hard men who grew up to run the place, truces and peace treaties, Weber's French village wars and the prayer 'deliver us from justice', why violence fell, and how Italy went from Europe's most violent to among its calmest. Fourth in the Weber and Hanlon series.</p><p><a href="https://claude.ai/code/artifact/90893331-6cb2-4820-8c68-29952100ec93">Script and sources</a></p>]]></description>
+      <itunes:summary>A misfired musket and an axe stopped at a church door. Six centuries of European homicide rates, a Tuscan village's 490 criminal cases, goats and crop damage, insults and the swords of the people, the village hard men who grew up to run the place, truces and peace treaties, Weber's French village wars and the prayer 'deliver us from justice', why violence fell, and how Italy went from Europe's most violent to among its calmest. Fourth in the Weber and Hanlon series.
+
+Script and sources: https://claude.ai/code/artifact/90893331-6cb2-4820-8c68-29952100ec93</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/90893331-6cb2-4820-8c68-29952100ec93</link>
+    </item>
     <item>
       <title>21. The Workable Family: Infanticide in a Tuscan Village</title>
       <itunes:title>The Workable Family: Infanticide in a Tuscan Village</itunes:title>
