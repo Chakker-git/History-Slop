@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 18:13:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:49:20 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>25. Heaven Is High: How the State Reached the Village</title>
+      <itunes:title>Heaven Is High: How the State Reached the Village</itunes:title>
+      <itunes:episode>25</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep25</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/25-heaven-is-high.mp3" length="25652009" type="audio/mpeg"/>
+      <itunes:duration>3200</itunes:duration>
+      <description><![CDATA[<p>A Tuscan militiaman, a Breton police chief with an interpreter, Vietnamese peasants burning tax rolls and a silent Chinese headman. The first crossover episode sets Weber, Hanlon, Scott and Fei side by side: despotic vs infrastructural power, brokers and legibility, the thin Qing state, the Tuscan tutor state, France's late arrival, the colonial tax machine, plus taxes, soldiers and priests compared. Why reach without return bred resistance, and reach with return bred citizens.</p><p><a href="https://claude.ai/code/artifact/e38115c3-e2de-4373-a704-35d8e811b4ed">Script and sources</a></p>]]></description>
+      <itunes:summary>A Tuscan militiaman, a Breton police chief with an interpreter, Vietnamese peasants burning tax rolls and a silent Chinese headman. The first crossover episode sets Weber, Hanlon, Scott and Fei side by side: despotic vs infrastructural power, brokers and legibility, the thin Qing state, the Tuscan tutor state, France's late arrival, the colonial tax machine, plus taxes, soldiers and priests compared. Why reach without return bred resistance, and reach with return bred citizens.
+
+Script and sources: https://claude.ai/code/artifact/e38115c3-e2de-4373-a704-35d8e811b4ed</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/e38115c3-e2de-4373-a704-35d8e811b4ed</link>
+    </item>
     <item>
       <title>24. Ripples in a Pond: Fei Xiaotong and the Shape of Chinese Society</title>
       <itunes:title>Ripples in a Pond: Fei Xiaotong and the Shape of Chinese Society</itunes:title>
