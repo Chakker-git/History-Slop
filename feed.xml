@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 16:47:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:13:39 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>24. Ripples in a Pond: Fei Xiaotong and the Shape of Chinese Society</title>
+      <itunes:title>Ripples in a Pond: Fei Xiaotong and the Shape of Chinese Society</itunes:title>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep24</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/24-ripples-in-a-pond.mp3" length="25951750" type="audio/mpeg"/>
+      <itunes:duration>3236</itunes:duration>
+      <description><![CDATA[<p>Stove dirt in red paper, 1936. Fei Xiaotong's From the Soil: bundles of straw versus ripples in a pond, selfishness and personal morality, the family as a corporation, rule by ritual and elders, illiteracy as adaptation, why neighbours walked to market to trade as strangers, Fei set against Scott, the Qing court archives that put 'a society without litigation' on trial, and Fei's fall, return and the rise of guanxi. Second in the Scott and Fei series.</p><p><a href="https://claude.ai/code/artifact/00692ca2-f099-4c56-af75-bc10aa426da9">Script and sources</a></p>]]></description>
+      <itunes:summary>Stove dirt in red paper, 1936. Fei Xiaotong's From the Soil: bundles of straw versus ripples in a pond, selfishness and personal morality, the family as a corporation, rule by ritual and elders, illiteracy as adaptation, why neighbours walked to market to trade as strangers, Fei set against Scott, the Qing court archives that put 'a society without litigation' on trial, and Fei's fall, return and the rise of guanxi. Second in the Scott and Fei series.
+
+Script and sources: https://claude.ai/code/artifact/00692ca2-f099-4c56-af75-bc10aa426da9</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/00692ca2-f099-4c56-af75-bc10aa426da9</link>
+    </item>
     <item>
       <title>23. Up to the Neck in Water: Why Peasants Rebel</title>
       <itunes:title>Up to the Neck in Water: Why Peasants Rebel</itunes:title>
