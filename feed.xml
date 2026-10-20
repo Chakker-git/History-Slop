@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:16:33 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>20. The Token of Shame: France's Schoolroom War on Languages</title>
+      <itunes:title>The Token of Shame: France's Schoolroom War on Languages</itunes:title>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep20</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/20-token-of-shame.mp3" length="27076314" type="audio/mpeg"/>
+      <itunes:duration>3377</itunes:duration>
+      <description><![CDATA[<p>A wooden clog round a child's neck for speaking Breton. Barère's 1794 war on patois, priests and Breton catechism, the symbole and new research on how common it was, inspectors' reports of children reading French without understanding it, why parents chose French, Mistral's Nobel Prize, Alsace under two states, when the languages really died, Italy, Wales and Okinawa, and the 2021 Constitutional Council ruling against immersion schools. Second in the Weber and Hanlon series.</p><p><a href="https://claude.ai/code/artifact/cca7a754-c9a4-4556-85a4-d30be3930d17">Script and sources</a></p>]]></description>
+      <itunes:summary>A wooden clog round a child's neck for speaking Breton. Barère's 1794 war on patois, priests and Breton catechism, the symbole and new research on how common it was, inspectors' reports of children reading French without understanding it, why parents chose French, Mistral's Nobel Prize, Alsace under two states, when the languages really died, Italy, Wales and Okinawa, and the 2021 Constitutional Council ruling against immersion schools. Second in the Weber and Hanlon series.
+
+Script and sources: https://claude.ai/code/artifact/cca7a754-c9a4-4556-85a4-d30be3930d17</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/code/artifact/cca7a754-c9a4-4556-85a4-d30be3930d17</link>
+    </item>
     <item>
       <title>19. Peasants into Frenchmen: When Did France Become French?</title>
       <itunes:title>Peasants into Frenchmen: When Did France Become French?</itunes:title>
