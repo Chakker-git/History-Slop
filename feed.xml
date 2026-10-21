@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Oct 2026 20:49:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:35:38 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>26. Deliver Us from Justice: Were Peasants Law-Shy or Litigious?</title>
+      <itunes:title>Deliver Us from Justice: Were Peasants Law-Shy or Litigious?</itunes:title>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep26</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/26-deliver-us-from-justice.mp3" length="24764304" type="audio/mpeg"/>
+      <itunes:duration>3088</itunes:duration>
+      <description><![CDATA[<p>Saint Ives sneaks into heaven. The second crossover episode asks whether premodern peasants avoided courts or sued constantly: the no-lawsuit ideal from Confucius to Breton proverbs, Qing archives and the 'third realm', a Tuscan village that went to court every day, France's justice of the peace, colonial courts as the moneylender's weapon, plus debt, legal middlemen, women litigants and why everyone mediated in the court's shadow.</p><p><a href="https://claude.ai/artifact/MhsXr2i51HTsxVqWSLmdEW">Script and sources</a></p>]]></description>
+      <itunes:summary>Saint Ives sneaks into heaven. The second crossover episode asks whether premodern peasants avoided courts or sued constantly: the no-lawsuit ideal from Confucius to Breton proverbs, Qing archives and the 'third realm', a Tuscan village that went to court every day, France's justice of the peace, colonial courts as the moneylender's weapon, plus debt, legal middlemen, women litigants and why everyone mediated in the court's shadow.
+
+Script and sources: https://claude.ai/artifact/MhsXr2i51HTsxVqWSLmdEW</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/MhsXr2i51HTsxVqWSLmdEW</link>
+    </item>
     <item>
       <title>25. Heaven Is High: How the State Reached the Village</title>
       <itunes:title>Heaven Is High: How the State Reached the Village</itunes:title>
