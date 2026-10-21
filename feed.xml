@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 19:35:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:25:43 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>27. The Jettatore: Naples Invents a Half-Joking Evil Eye</title>
+      <itunes:title>The Jettatore: Naples Invents a Half-Joking Evil Eye</itunes:title>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep27</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/27-the-jettatore.mp3" length="28559311" type="audio/mpeg"/>
+      <itunes:duration>3564</itunes:duration>
+      <description><![CDATA[<p>A king refuses to meet a kindly canon for fifteen years, finally relents, and dies the next morning. The first episode from Ernesto de Martino's Sud e magia asks why Enlightenment Naples invented the jettatore, the unwitting bringer of bad luck: peasant fascination in Lucania, Valletta's 1787 joke book with a dead child in it, electricity and evil eyes, Dumas and Gautier, Bourbon kings who didn't believe it but, and whether it was ever really a joke.</p><p><a href="https://claude.ai/artifact/EHCeA2xbFr3GZsBg1KLBcu">Script and sources</a></p>]]></description>
+      <itunes:summary>A king refuses to meet a kindly canon for fifteen years, finally relents, and dies the next morning. The first episode from Ernesto de Martino's Sud e magia asks why Enlightenment Naples invented the jettatore, the unwitting bringer of bad luck: peasant fascination in Lucania, Valletta's 1787 joke book with a dead child in it, electricity and evil eyes, Dumas and Gautier, Bourbon kings who didn't believe it but, and whether it was ever really a joke.
+
+Script and sources: https://claude.ai/artifact/EHCeA2xbFr3GZsBg1KLBcu</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/EHCeA2xbFr3GZsBg1KLBcu</link>
+    </item>
     <item>
       <title>26. Deliver Us from Justice: Were Peasants Law-Shy or Litigious?</title>
       <itunes:title>Deliver Us from Justice: Were Peasants Law-Shy or Litigious?</itunes:title>
