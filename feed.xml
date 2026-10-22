@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:25:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:04:57 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>28. The Cruel Carnival: Vendetta and Revolt in Udine, 1511</title>
+      <itunes:title>The Cruel Carnival: Vendetta and Revolt in Udine, 1511</itunes:title>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep28</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/28-the-cruel-carnival.mp3" length="27506932" type="audio/mpeg"/>
+      <itunes:duration>3431</itunes:duration>
+      <description><![CDATA[<p>Fat Thursday, 1511: a nobleman paints his coat of arms on a rival's well, and Udine erupts. From Edward Muir's Mad Blood Stirring: Friuli's feuding clans, the populist warlord Antonio Savorgnan, two days of massacre and weeks of burning castles, an earthquake, a plague, an assassination with a dog, the slow switch from butchery to duels, and the love story that became Romeo and Juliet. Was it a peasant revolt, a noble vendetta, or carnival gone wrong? Contains graphic violence.</p><p><a href="https://claude.ai/artifact/RjVYvYHh6JPd1TBNSsCVQr">Script and sources</a></p>]]></description>
+      <itunes:summary>Fat Thursday, 1511: a nobleman paints his coat of arms on a rival's well, and Udine erupts. From Edward Muir's Mad Blood Stirring: Friuli's feuding clans, the populist warlord Antonio Savorgnan, two days of massacre and weeks of burning castles, an earthquake, a plague, an assassination with a dog, the slow switch from butchery to duels, and the love story that became Romeo and Juliet. Was it a peasant revolt, a noble vendetta, or carnival gone wrong? Contains graphic violence.
+
+Script and sources: https://claude.ai/artifact/RjVYvYHh6JPd1TBNSsCVQr</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/RjVYvYHh6JPd1TBNSsCVQr</link>
+    </item>
     <item>
       <title>27. The Jettatore: Naples Invents a Half-Joking Evil Eye</title>
       <itunes:title>The Jettatore: Naples Invents a Half-Joking Evil Eye</itunes:title>
