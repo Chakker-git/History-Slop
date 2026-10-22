@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Oct 2026 17:13:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:02:14 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>30. The Godly and the Drunk</title>
+      <itunes:title>The Godly and the Drunk</itunes:title>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep30</guid>
+      <pubDate>Thu, 22 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/30-the-godly-and-the-drunk.mp3" length="25526038" type="audio/mpeg"/>
+      <itunes:duration>3183</itunes:duration>
+      <description><![CDATA[<p>An innkeeper who saws down his enemy's fences, a constable who reports that 'ower town is well reformed', and a charity that made the poor wear a badge. From Keith Wrightson and David Levine's Poverty and Piety in an English Village: Terling in Essex, 1525 to 1700, where the poor doubled, the farmers got godly, and the alehouses came under siege. Then the critics: Spufford, Ingram, Ged Martin and a dead squire, plus Swiss morals courts. Was Puritanism a weapon of the better sort?</p><p><a href="https://claude.ai/artifact/Cyi8a5M7vZqSt2jaUcKCDh">Script and sources</a></p>]]></description>
+      <itunes:summary>An innkeeper who saws down his enemy's fences, a constable who reports that 'ower town is well reformed', and a charity that made the poor wear a badge. From Keith Wrightson and David Levine's Poverty and Piety in an English Village: Terling in Essex, 1525 to 1700, where the poor doubled, the farmers got godly, and the alehouses came under siege. Then the critics: Spufford, Ingram, Ged Martin and a dead squire, plus Swiss morals courts. Was Puritanism a weapon of the better sort?
+
+Script and sources: https://claude.ai/artifact/Cyi8a5M7vZqSt2jaUcKCDh</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/Cyi8a5M7vZqSt2jaUcKCDh</link>
+    </item>
     <item>
       <title>29. Long Live the King, Death to the Exciseman</title>
       <itunes:title>Long Live the King, Death to the Exciseman</itunes:title>
