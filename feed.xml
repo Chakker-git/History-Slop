@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 09:22:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 23:42:34 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>32. Who Burned the Witches?</title>
+      <itunes:title>Who Burned the Witches?</itunes:title>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep32</guid>
+      <pubDate>Sat, 24 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/32-who-burned-the-witches.mp3" length="26630439" type="audio/mpeg"/>
+      <itunes:duration>3320</itunes:duration>
+      <description><![CDATA[<p>A fifty-four-year-old cowherd in Artois, thirteen witnesses, and a Devil who only shows up when the torturer does. From Robert Muchembled's Popular Culture and Elite Culture in France: the witch trials of the Cambrésis and Artois, 1580 to 1680, where judges brought the sabbath and neighbours brought the dead cows, villages petitioned and paid for trials, and one clerk noted that some witches went unburned for lack of funds. Was the witch hunt a war on popular culture? With Briggs, Monter and the critics.</p><p><a href="https://claude.ai/artifact/AeC1YGDMWfKUsqphAKub2q">Script and sources</a></p>]]></description>
+      <itunes:summary>A fifty-four-year-old cowherd in Artois, thirteen witnesses, and a Devil who only shows up when the torturer does. From Robert Muchembled's Popular Culture and Elite Culture in France: the witch trials of the Cambrésis and Artois, 1580 to 1680, where judges brought the sabbath and neighbours brought the dead cows, villages petitioned and paid for trials, and one clerk noted that some witches went unburned for lack of funds. Was the witch hunt a war on popular culture? With Briggs, Monter and the critics.
+
+Script and sources: https://claude.ai/artifact/AeC1YGDMWfKUsqphAKub2q</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/AeC1YGDMWfKUsqphAKub2q</link>
+    </item>
     <item>
       <title>31. The Buried Bull</title>
       <itunes:title>The Buried Bull</itunes:title>
