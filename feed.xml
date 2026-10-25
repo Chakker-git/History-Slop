@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 17:11:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:29:36 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>35. The Village Reformers</title>
+      <itunes:title>The Village Reformers</itunes:title>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep35</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/35-the-village-reformers.mp3" length="25898295" type="audio/mpeg"/>
+      <itunes:duration>3230</itunes:duration>
+      <description><![CDATA[<p>Who wanted the village disciplined, and why? A cross-analysis of six villages from the bucket: Terling's godly yeomen, a Württemberg headman, the 'sounder part' of Artois, Tuscan priests and missions, Chinese elders reading the Sacred Edict, and Sedaka's ruling-party committee. States and churches built the machinery; the villages' own better-off households drove it.</p><p><a href="https://claude.ai/artifact/SpZ67CZf7R91htgRzk65jm">Script and sources</a></p>]]></description>
+      <itunes:summary>Who wanted the village disciplined, and why? A cross-analysis of six villages from the bucket: Terling's godly yeomen, a Württemberg headman, the 'sounder part' of Artois, Tuscan priests and missions, Chinese elders reading the Sacred Edict, and Sedaka's ruling-party committee. States and churches built the machinery; the villages' own better-off households drove it.
+
+Script and sources: https://claude.ai/artifact/SpZ67CZf7R91htgRzk65jm</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/SpZ67CZf7R91htgRzk65jm</link>
+    </item>
     <item>
       <title>34. Weapons of the Weak</title>
       <itunes:title>Weapons of the Weak</itunes:title>
