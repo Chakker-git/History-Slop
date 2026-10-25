@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 23:42:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 07:51:34 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>33. Growth Without Development</title>
+      <itunes:title>Growth Without Development</itunes:title>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep33</guid>
+      <pubDate>Sun, 25 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/33-growth-without-development.mp3" length="26594806" type="audio/mpeg"/>
+      <itunes:duration>3317</itunes:duration>
+      <description><![CDATA[<p>A thug and a monk try to steal a village's temple land, and a Japanese researcher working for the occupiers stops them. From Philip Huang's The Peasant Economy and Social Change in North China: the Mantetsu surveys, managerial farms that never became capitalist, half-peasant half-worker families, labourers too poor to marry, village bullies, and three centuries of growth without development. Plus the critics, and how Huang's word 'involution' became China's 2020 buzzword for the rat race.</p><p><a href="https://claude.ai/artifact/LSRghvJg5VvfMnbavNaSBp">Script and sources</a></p>]]></description>
+      <itunes:summary>A thug and a monk try to steal a village's temple land, and a Japanese researcher working for the occupiers stops them. From Philip Huang's The Peasant Economy and Social Change in North China: the Mantetsu surveys, managerial farms that never became capitalist, half-peasant half-worker families, labourers too poor to marry, village bullies, and three centuries of growth without development. Plus the critics, and how Huang's word 'involution' became China's 2020 buzzword for the rat race.
+
+Script and sources: https://claude.ai/artifact/LSRghvJg5VvfMnbavNaSBp</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/LSRghvJg5VvfMnbavNaSBp</link>
+    </item>
     <item>
       <title>32. Who Burned the Witches?</title>
       <itunes:title>Who Burned the Witches?</itunes:title>
