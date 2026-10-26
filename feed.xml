@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 23:29:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:07:26 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>36. Special Edition: Kennings and Bars</title>
+      <itunes:title>Special Edition: Kennings and Bars</itunes:title>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep36</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/36-kennings-and-bars.mp3" length="38323826" type="audio/mpeg"/>
+      <itunes:duration>4782</itunes:duration>
+      <description><![CDATA[<p>Is modern gangster rap a spiritual cousin of Norse-Germanic epic hero culture? A feature-length special setting skalds, sagas and Beowulf beside gangsta rap: paid praise poets, flyting and beef, honour without a state, rings and chains, lords and crews, fame after death, and verse that lands its makers in court. Verdict: cousins by circumstance, not by blood.</p><p><a href="https://claude.ai/artifact/FyaD9Cjsy8aQ8rVAnDifGY">Script and sources</a></p>]]></description>
+      <itunes:summary>Is modern gangster rap a spiritual cousin of Norse-Germanic epic hero culture? A feature-length special setting skalds, sagas and Beowulf beside gangsta rap: paid praise poets, flyting and beef, honour without a state, rings and chains, lords and crews, fame after death, and verse that lands its makers in court. Verdict: cousins by circumstance, not by blood.
+
+Script and sources: https://claude.ai/artifact/FyaD9Cjsy8aQ8rVAnDifGY</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/FyaD9Cjsy8aQ8rVAnDifGY</link>
+    </item>
     <item>
       <title>35. The Village Reformers</title>
       <itunes:title>The Village Reformers</itunes:title>
