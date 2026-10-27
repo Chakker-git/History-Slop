@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 08:03:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:55:01 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>39. The War People</title>
+      <itunes:title>The War People</itunes:title>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep39</guid>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/39-the-war-people.mp3" length="27323589" type="audio/mpeg"/>
+      <itunes:duration>3408</itunes:duration>
+      <description><![CDATA[<p>Fighting for a Living, part 2. Were the mercenaries of the Thirty Years War the rootless, marauding scum of legend, or a working society with its own law, honour, families and wages? One Saxon regiment raised for the King of Spain in 1625, followed to Italy and its slow, polite collapse: recruits, women, lawsuits, civilians, pay and the German debate.</p><p><a href="https://claude.ai/artifact/XnjH2Mngt4VQM3VEUfCxyn">Script and sources</a></p>]]></description>
+      <itunes:summary>Fighting for a Living, part 2. Were the mercenaries of the Thirty Years War the rootless, marauding scum of legend, or a working society with its own law, honour, families and wages? One Saxon regiment raised for the King of Spain in 1625, followed to Italy and its slow, polite collapse: recruits, women, lawsuits, civilians, pay and the German debate.
+
+Script and sources: https://claude.ai/artifact/XnjH2Mngt4VQM3VEUfCxyn</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/XnjH2Mngt4VQM3VEUfCxyn</link>
+    </item>
     <item>
       <title>38. Hired Swords</title>
       <itunes:title>Hired Swords</itunes:title>

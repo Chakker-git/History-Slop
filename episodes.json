@@ -1,316 +1,324 @@
 {
-  "show": {
-    "title": "History Slop",
-    "author": "Anna & Rune",
-    "base_url": "https://chakker-git.github.io/History-Slop/",
-    "language": "en",
-    "category": "History",
-    "summary": "Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework."
+ "show": {
+  "title": "History Slop",
+  "author": "Anna & Rune",
+  "base_url": "https://chakker-git.github.io/History-Slop/",
+  "language": "en",
+  "category": "History",
+  "summary": "Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework."
+ },
+ "episodes": [
+  {
+   "n": 1,
+   "title": "Pike, Shot & Plunder",
+   "date": "2026-10-01",
+   "file": "episodes/01-pike-shot-and-plunder.mp3",
+   "script": "https://claude.ai/code/artifact/e8c9683f-ed02-4930-b23a-888bfe3a0cce",
+   "summary": "How tactics and operations evolved in the Thirty Years' War."
   },
-  "episodes": [
-    {
-      "n": 1,
-      "title": "Pike, Shot & Plunder",
-      "date": "2026-10-01",
-      "file": "episodes/01-pike-shot-and-plunder.mp3",
-      "script": "https://claude.ai/code/artifact/e8c9683f-ed02-4930-b23a-888bfe3a0cce",
-      "summary": "How tactics and operations evolved in the Thirty Years' War."
-    },
-    {
-      "n": 2,
-      "title": "Bronze and Gold",
-      "date": "2026-10-02",
-      "file": "episodes/02-bronze-and-gold.mp3",
-      "script": "https://claude.ai/code/artifact/ad0a9df6-5835-4155-a8a6-8c0cbfbd9c1e",
-      "summary": "Why the Greeks beat Persia, and how they kept a military edge for a century afterwards."
-    },
-    {
-      "n": 3,
-      "title": "Barbarians at the Standards",
-      "date": "2026-10-03",
-      "file": "episodes/03-barbarians-at-the-standards.mp3",
-      "script": "https://claude.ai/code/artifact/e816331a-4798-4652-83dd-4eb50d2e2c2b",
-      "summary": "Was the late Roman army \"barbarized\", and did that make it worse or less loyal?"
-    },
-    {
-      "n": 4,
-      "title": "The Bottomless Well",
-      "date": "2026-10-04",
-      "file": "episodes/04-the-bottomless-well.mp3",
-      "script": "https://claude.ai/code/artifact/38dcbdbe-f8e6-42c1-b5f2-515817df4963",
-      "summary": "Why the Republic regenerated after Cannae while the late empire spent decades in crisis after Adrianople. Short version: it wasn't grit. It was whether the core that paid for and filled the army survived."
-    },
-    {
-      "n": 5,
-      "title": "The Art of Fighting",
-      "date": "2026-10-05",
-      "file": "episodes/05-the-art-of-fighting.mp3",
-      "script": "https://claude.ai/code/artifact/6b04f6af-e998-41af-a0cb-6154012bf255",
-      "summary": "What medieval fight books were actually for, and how far they and the battlefield graves of Visby, Towton and Aljubarrota show how people really fought."
-    },
-    {
-      "n": 6,
-      "title": "Point Taken",
-      "date": "2026-10-06",
-      "file": "episodes/06-point-taken.mp3",
-      "script": "https://claude.ai/code/artifact/183817a7-e651-46c8-8a7c-01ee08e06e7a",
-      "summary": "Why swordsmanship moved from the longsword and the judicial duel to the rapier and the private duel of honour, and why the change was social rather than technical."
-    },
-    {
-      "n": 7,
-      "title": "Stakes in the River",
-      "date": "2026-10-07",
-      "file": "episodes/07-stakes-in-the-river.mp3",
-      "script": "https://claude.ai/code/artifact/a72f1654-2786-4371-a210-4eca5c33f7f0",
-      "summary": "Why the Mongols and the Yuan failed in Đại Việt, Champa, Burma and Java (1257–1303): monsoon, malaria, improvised fleets, the stakes at Bạch Đằng, and local rulers who used the invaders for their own ends."
-    },
-    {
-      "n": 8,
-      "title": "Did Water Kill Angkor?",
-      "date": "2026-10-08",
-      "file": "episodes/08-did-water-kill-angkor.mp3",
-      "script": "https://claude.ai/code/artifact/2b5de732-e513-4cee-9d0a-6c065c150da0",
-      "summary": "War, megadrought, a brittle water network, or an elite that drifted away first? Why Angkor faded, and why 'transformation, not collapse' is the better story."
-    },
-    {
-      "n": 9,
-      "title": "Fire from the South",
-      "date": "2026-10-09",
-      "file": "episodes/09-fire-from-the-south.mp3",
-      "script": "https://claude.ai/code/artifact/f0620597-5e96-4f97-bb40-6fa61ebfa9ba",
-      "summary": "Was there a military revolution in Southeast Asia, c. 1390–1620? Ming guns in the Shan hills, Đại Việt as a gunpowder state, foreign gunners in Burma and Siam, and one connected Eurasian gunpowder age."
-    },
-    {
-      "n": 10,
-      "title": "Empire of the Straits?",
-      "date": "2026-10-16",
-      "file": "episodes/10-empire-of-the-straits.mp3",
-      "script": "https://claude.ai/code/artifact/d4222f08-de64-4c95-955a-67c7bbdd1771",
-      "summary": "Srivijaya: empire or network? Yijing's Sumatran monastery, curse stones and Old Malay oaths, a wooden port in the swamps, the Belitung wreck, the Sanfoqi debate in Japanese and Chinese scholarship, and the Chola raid of 1025."
-    },
-    {
-      "n": 11,
-      "title": "The Battle That Wasn't? Talas, 751",
-      "date": "2026-10-17",
-      "file": "episodes/11-the-battle-that-wasnt.mp3",
-      "script": "https://claude.ai/code/artifact/65af0f8d-2bc8-4090-84a7-4af04bf3cb9f",
-      "summary": "Did the Battle of Talas matter? A frontier clash the Arabic chronicles forgot, a Korean-born Tang general, the Karluk defection, Du Huan's captivity in the caliphate, the paper myth, An Lushan, and six national memories of one afternoon in 751."
-    },
-    {
-      "n": 12,
-      "title": "The Empire That Wasn't Built: Timur",
-      "date": "2026-10-17",
-      "file": "episodes/12-the-empire-that-wasnt-built.mp3",
-      "script": "https://claude.ai/code/artifact/ce80fbf4-f3cd-45a7-a213-83126482688a",
-      "summary": "Was Timur a conquest machine with no afterlife? Ibn Khaldun in his tent, puppet khans and skull towers, Ankara and the plunder of Bursa, Clavijo's Samarkand, the hostile witness Ibn Arabshah, and the Timurid afterlife from Ulugh Beg to the Mughals."
-    },
-    {
-      "n": 13,
-      "title": "Heresy Came First? The Many Christianities",
-      "date": "2026-10-17",
-      "file": "episodes/13-heresy-came-first.mp3",
-      "script": "https://claude.ai/code/artifact/4818be72-740b-46d5-ba5e-ea0c8be712ac",
-      "summary": "Was there one original Christianity, or many? Walter Bauer's 1934 thesis tested in Edessa, Alexandria and Rome, with Marcion's returned donation and his disputed gospel, Nag Hammadi, the Ebionites, the Phrygian prophets, and the critics who fought back."
-    },
-    {
-      "n": 14,
-      "title": "Who Conquered Mexico? The Tlaxcalan Conquest",
-      "date": "2026-10-17",
-      "file": "episodes/14-tlaxcala.mp3",
-      "script": "https://claude.ai/code/artifact/80c4930f-07b3-463d-bc20-b692869ca3da",
-      "summary": "Was the fall of Tenochtitlan a Spanish conquest or an Indigenous war? Tlaxcala's choice after the Noche Triste, Cholula, Malintzin, smallpox and the brigantines, the view from Tlatelolco, Indian conquistadors, the Lienzo de Tlaxcala, and how Tlaxcala became a byword for treason."
-    },
-    {
-      "n": 15,
-      "title": "We Are Hungry: The Deir el-Medina Strike",
-      "date": "2026-10-18",
-      "file": "episodes/15-deir-el-medina.mp3",
-      "script": "https://claude.ai/code/artifact/c4cb48d2-39c0-4c99-b6e9-0b7175b3ff9f",
-      "summary": "Silent servants of pharaoh, or striking workers? The royal tomb-builders of Deir el-Medina: grain wages, sick notes and scorpions, the village court and oracle, the villain Paneb, Naunakhte's will, the Turin Strike Papyrus of year 29 of Ramesses III, and the tomb robberies that followed."
-    },
-    {
-      "n": 16,
-      "title": "The Miller's Cosmos: Menocchio and The Cheese and the Worms",
-      "date": "2026-10-19",
-      "file": "episodes/16-menocchio.mp3",
-      "script": "https://claude.ai/code/artifact/f0871e78-0f05-4e0e-ba29-71d2b1c2e635",
-      "summary": "A Friulian miller tells the Inquisition that the angels were worms in the cheese of creation. Menocchio's books and how he read them, his two trials and death in 1599, Carlo Ginzburg's microhistory and its critics, the Roman Inquisition beyond the black legend, and the benandanti."
-    },
-    {
-      "n": 17,
-      "title": "The Spring of Goliath: Did Ain Jalut Stop the Mongols?",
-      "date": "2026-10-19",
-      "file": "episodes/17-ain-jalut.mp3",
-      "script": "https://claude.ai/code/artifact/6f0f8f1c-ee0c-45c0-9702-9455509562fa",
-      "summary": "The battle that saved Islam, or a win against a Mongol rearguard? Hulagu's withdrawal and the pasture thesis, Kipchak slave soldiers made by the Mongol conquests, the murder of Qutuz, sixty years of Mamluk-Ilkhanid war, Mongols on both sides of strange alliances, and how Ain Jalut is remembered."
-    },
-    {
-      "n": 18,
-      "title": "The Luminous Religion: The Church of the East in Tang China",
-      "date": "2026-10-19",
-      "file": "episodes/18-church-of-the-east.mp3",
-      "script": "https://claude.ai/code/artifact/cfb6f66c-687e-4dfd-8ced-e5d27c01e942",
-      "summary": "Christianity reached China from Persia in 635, a thousand years before the Jesuits. The 'Nestorian' misnomer, Aluoben and the 638 edict, the Xi'an stele of 781, Buddhist-style sutras and a forgery fight, Sogdian Christians on the Luoyang pillar, the persecution of 845, the Mongol revival, and a Danish adventurer who tried to buy the stele."
-    },
-    {
-      "n": 19,
-      "title": "Peasants into Frenchmen: When Did France Become French?",
-      "date": "2026-10-19",
-      "file": "episodes/19-peasants-into-frenchmen.mp3",
-      "script": "https://claude.ai/code/artifact/75791b93-58bb-449e-970c-49cead55ba11",
-      "summary": "Napoleon mistaken for a travelling salesman, a quarter of France not speaking French in 1863, and the schoolroom token of shame. Eugen Weber's thesis that roads, schools and the army made peasants into Frenchmen between 1870 and 1914, his critics on markets, 1851 and identity from below, the Tour de la France par deux enfants, the test of August 1914, and a Tuscan villager who was a proud vassal of his Grand Duke in 1643. First in a series built on Weber and Gregory Hanlon's Human Nature in Rural Tuscany."
-    },
-    {
-      "n": 20,
-      "title": "The Token of Shame: France's Schoolroom War on Languages",
-      "date": "2026-10-20",
-      "file": "episodes/20-token-of-shame.mp3",
-      "script": "https://claude.ai/code/artifact/cca7a754-c9a4-4556-85a4-d30be3930d17",
-      "summary": "A wooden clog round a child's neck for speaking Breton. Barère's 1794 war on patois, priests and Breton catechism, the symbole and new research on how common it was, inspectors' reports of children reading French without understanding it, why parents chose French, Mistral's Nobel Prize, Alsace under two states, when the languages really died, Italy, Wales and Okinawa, and the 2021 Constitutional Council ruling against immersion schools. Second in the Weber and Hanlon series."
-    },
-    {
-      "n": 21,
-      "title": "The Workable Family: Infanticide in a Tuscan Village",
-      "date": "2026-10-20",
-      "file": "episodes/21-workable-family.mp3",
-      "script": "https://claude.ai/code/artifact/020f87de-e18a-47eb-a24e-49110bc2c9ba",
-      "summary": "Too few girls in a bishop's confirmation list. Courtship serenades and dowry votes with beans, illegitimacy and the foundling wheel, Gregory Hanlon's case that married sharecroppers quietly let newborns die in famine years, one trial, a church that looked away, the case against the numbers, Italy's foundling hospitals, China's missing girls, and dowries and wills. Third in the Weber and Hanlon series."
-    },
-    {
-      "n": 22,
-      "title": "Knives at the Veglia: How Violent Was the Premodern Village?",
-      "date": "2026-10-20",
-      "file": "episodes/22-knives-at-the-veglia.mp3",
-      "script": "https://claude.ai/code/artifact/90893331-6cb2-4820-8c68-29952100ec93",
-      "summary": "A misfired musket and an axe stopped at a church door. Six centuries of European homicide rates, a Tuscan village's 490 criminal cases, goats and crop damage, insults and the swords of the people, the village hard men who grew up to run the place, truces and peace treaties, Weber's French village wars and the prayer 'deliver us from justice', why violence fell, and how Italy went from Europe's most violent to among its calmest. Fourth in the Weber and Hanlon series."
-    },
-    {
-      "n": 23,
-      "date": "2026-10-20",
-      "title": "Up to the Neck in Water: Why Peasants Rebel",
-      "file": "episodes/23-up-to-the-neck-in-water.mp3",
-      "script": "https://claude.ai/code/artifact/40485950-cbe5-4002-9085-f1cf59727816",
-      "summary": "Tattooed rebels in Burma and burned tax rolls in Vietnam, 1930. James C. Scott's moral economy of the peasant: the drowning man, safety-first farming, the village as insurance, why fixed rents and head taxes were deadlier than larger shares, the Saya San rising and the Nghe-Tinh soviets, and the case for Samuel Popkin's rational peasant. First in the Scott and Fei series."
-    },
-    {
-      "n": 24,
-      "date": "2026-10-20",
-      "title": "Ripples in a Pond: Fei Xiaotong and the Shape of Chinese Society",
-      "file": "episodes/24-ripples-in-a-pond.mp3",
-      "script": "https://claude.ai/code/artifact/00692ca2-f099-4c56-af75-bc10aa426da9",
-      "summary": "Stove dirt in red paper, 1936. Fei Xiaotong's From the Soil: bundles of straw versus ripples in a pond, selfishness and personal morality, the family as a corporation, rule by ritual and elders, illiteracy as adaptation, why neighbours walked to market to trade as strangers, Fei set against Scott, the Qing court archives that put 'a society without litigation' on trial, and Fei's fall, return and the rise of guanxi. Second in the Scott and Fei series."
-    },
-    {
-      "n": 25,
-      "date": "2026-10-20",
-      "title": "Heaven Is High: How the State Reached the Village",
-      "file": "episodes/25-heaven-is-high.mp3",
-      "script": "https://claude.ai/code/artifact/e38115c3-e2de-4373-a704-35d8e811b4ed",
-      "summary": "A Tuscan militiaman, a Breton police chief with an interpreter, Vietnamese peasants burning tax rolls and a silent Chinese headman. The first crossover episode sets Weber, Hanlon, Scott and Fei side by side: despotic vs infrastructural power, brokers and legibility, the thin Qing state, the Tuscan tutor state, France's late arrival, the colonial tax machine, plus taxes, soldiers and priests compared. Why reach without return bred resistance, and reach with return bred citizens."
-    },
-    {
-      "n": 26,
-      "date": "2026-10-21",
-      "title": "Deliver Us from Justice: Were Peasants Law-Shy or Litigious?",
-      "file": "episodes/26-deliver-us-from-justice.mp3",
-      "script": "https://claude.ai/artifact/MhsXr2i51HTsxVqWSLmdEW",
-      "summary": "Saint Ives sneaks into heaven. The second crossover episode asks whether premodern peasants avoided courts or sued constantly: the no-lawsuit ideal from Confucius to Breton proverbs, Qing archives and the 'third realm', a Tuscan village that went to court every day, France's justice of the peace, colonial courts as the moneylender's weapon, plus debt, legal middlemen, women litigants and why everyone mediated in the court's shadow."
-    },
-    {
-      "n": 27,
-      "date": "2026-10-21",
-      "title": "The Jettatore: Naples Invents a Half-Joking Evil Eye",
-      "file": "episodes/27-the-jettatore.mp3",
-      "script": "https://claude.ai/artifact/EHCeA2xbFr3GZsBg1KLBcu",
-      "summary": "A king refuses to meet a kindly canon for fifteen years, finally relents, and dies the next morning. The first episode from Ernesto de Martino's Sud e magia asks why Enlightenment Naples invented the jettatore, the unwitting bringer of bad luck: peasant fascination in Lucania, Valletta's 1787 joke book with a dead child in it, electricity and evil eyes, Dumas and Gautier, Bourbon kings who didn't believe it but, and whether it was ever really a joke."
-    },
-    {
-      "n": 28,
-      "date": "2026-10-22",
-      "title": "The Cruel Carnival: Vendetta and Revolt in Udine, 1511",
-      "file": "episodes/28-the-cruel-carnival.mp3",
-      "script": "https://claude.ai/artifact/RjVYvYHh6JPd1TBNSsCVQr",
-      "summary": "Fat Thursday, 1511: a nobleman paints his coat of arms on a rival's well, and Udine erupts. From Edward Muir's Mad Blood Stirring: Friuli's feuding clans, the populist warlord Antonio Savorgnan, two days of massacre and weeks of burning castles, an earthquake, a plague, an assassination with a dog, the slow switch from butchery to duels, and the love story that became Romeo and Juliet. Was it a peasant revolt, a noble vendetta, or carnival gone wrong? Contains graphic violence."
-    },
-    {
-      "n": 29,
-      "date": "2026-10-22",
-      "title": "Long Live the King, Death to the Exciseman",
-      "file": "episodes/29-long-live-the-king.mp3",
-      "script": "https://claude.ai/artifact/G6GM246BwVjohHE46VGENM",
-      "summary": "Thirty thousand peasants in a forest clearing, a captured tax assessor writing their petition, and a general who didn't want the job. From Yves-Marie Bercé's History of Peasant Revolts: the Croquant risings of south-west France from 1548 to 1707, the salt tax, the 'Out-of-Dates', the battle of La Sauvetat, exciseman-dragging rituals, rumours of a tax on babies, and a Cold War argument between a Soviet historian (later a yeti hunter) and a French one: was it class war?"
-    },
-    {
-      "n": 30,
-      "date": "2026-10-22",
-      "title": "The Godly and the Drunk",
-      "file": "episodes/30-the-godly-and-the-drunk.mp3",
-      "script": "https://claude.ai/artifact/Cyi8a5M7vZqSt2jaUcKCDh",
-      "summary": "An innkeeper who saws down his enemy's fences, a constable who reports that 'ower town is well reformed', and a charity that made the poor wear a badge. From Keith Wrightson and David Levine's Poverty and Piety in an English Village: Terling in Essex, 1525 to 1700, where the poor doubled, the farmers got godly, and the alehouses came under siege. Then the critics: Spufford, Ingram, Ged Martin and a dead squire, plus Swiss morals courts. Was Puritanism a weapon of the better sort?"
-    },
-    {
-      "n": 31,
-      "date": "2026-10-23",
-      "title": "The Buried Bull",
-      "file": "episodes/31-the-buried-bull.mp3",
-      "script": "https://claude.ai/artifact/Seo6Nhy7FK3fqo9f2T3X9b",
-      "summary": "In 1796 a Württemberg village buried its bull alive at a crossroads to stop a cattle plague, and then nobody would admit to believing in it. From David Sabean's Power in the Blood: six case files from 1580 to 1801, with a man who can't say the forgiving part of the Lord's Prayer, a vintner whose angel makes the vines bleed, a thirteen-year-old 'witch', a pastor found dead in a brook, and a headman who stood squarely in the zone of 'perhaps'."
-    },
-    {
-      "n": 32,
-      "date": "2026-10-24",
-      "title": "Who Burned the Witches?",
-      "file": "episodes/32-who-burned-the-witches.mp3",
-      "script": "https://claude.ai/artifact/AeC1YGDMWfKUsqphAKub2q",
-      "summary": "A fifty-four-year-old cowherd in Artois, thirteen witnesses, and a Devil who only shows up when the torturer does. From Robert Muchembled's Popular Culture and Elite Culture in France: the witch trials of the Cambrésis and Artois, 1580 to 1680, where judges brought the sabbath and neighbours brought the dead cows, villages petitioned and paid for trials, and one clerk noted that some witches went unburned for lack of funds. Was the witch hunt a war on popular culture? With Briggs, Monter and the critics."
-    },
-    {
-      "n": 33,
-      "date": "2026-10-25",
-      "title": "Growth Without Development",
-      "file": "episodes/33-growth-without-development.mp3",
-      "script": "https://claude.ai/artifact/LSRghvJg5VvfMnbavNaSBp",
-      "summary": "A thug and a monk try to steal a village's temple land, and a Japanese researcher working for the occupiers stops them. From Philip Huang's The Peasant Economy and Social Change in North China: the Mantetsu surveys, managerial farms that never became capitalist, half-peasant half-worker families, labourers too poor to marry, village bullies, and three centuries of growth without development. Plus the critics, and how Huang's word 'involution' became China's 2020 buzzword for the rat race."
-    },
-    {
-      "n": 34,
-      "date": "2026-10-25",
-      "title": "Weapons of the Weak",
-      "file": "episodes/34-weapons-of-the-weak.mp3",
-      "script": "https://claude.ai/artifact/72moAyzDmRr3sBh334MQhS",
-      "summary": "When peasants can't revolt, what do they do instead? James C. Scott's Weapons of the Weak (1985): a Kedah rice village, the combine-harvesters that ate the harvest work, Razak and Haji Broom, a transplanting boycott that never quite announced itself, and whether gossip, foot-dragging and stolen rice count as resistance. Series 5, episode 7."
-    },
-    {
-      "n": 35,
-      "date": "2026-10-26",
-      "title": "The Village Reformers",
-      "file": "episodes/35-the-village-reformers.mp3",
-      "script": "https://claude.ai/artifact/SpZ67CZf7R91htgRzk65jm",
-      "summary": "Who wanted the village disciplined, and why? A cross-analysis of six villages from the bucket: Terling's godly yeomen, a Württemberg headman, the 'sounder part' of Artois, Tuscan priests and missions, Chinese elders reading the Sacred Edict, and Sedaka's ruling-party committee. States and churches built the machinery; the villages' own better-off households drove it."
-    },
-    {
-      "n": 36,
-      "date": "2026-10-26",
-      "title": "Special Edition: Kennings and Bars",
-      "file": "episodes/36-kennings-and-bars.mp3",
-      "script": "https://claude.ai/artifact/FyaD9Cjsy8aQ8rVAnDifGY",
-      "summary": "Is modern gangster rap a spiritual cousin of Norse-Germanic epic hero culture? A feature-length special setting skalds, sagas and Beowulf beside gangsta rap: paid praise poets, flyting and beef, honour without a state, rings and chains, lords and crews, fame after death, and verse that lands its makers in court. Verdict: cousins by circumstance, not by blood."
-    },
-    {
-      "n": 37,
-      "date": "2026-10-26",
-      "title": "Magic Meets the State",
-      "file": "episodes/37-magic-meets-the-state.mp3",
-      "script": "https://claude.ai/artifact/J99Bn6rTu3m1zp4kwq25DX",
-      "summary": "When officials, inquisitors, judges and schoolteachers met village magic, who changed whom? A cross-analysis from a bull buried alive at Beutelsbach in 1796, through the witch trials of the Cambrésis, the Roman Inquisition in Tuscany, France's sorcerers, de Martino's Lucania and Qing China's soulstealing scare of 1768. The state rarely killed magic, but it decided whom magic could get killed."
-    },
-    {
-      "n": 38,
-      "date": "2026-10-27",
-      "title": "Hired Swords",
-      "file": "episodes/38-hired-swords.mp3",
-      "script": "https://claude.ai/artifact/DiT6uxrfpBmkLNdXjbzeKX",
-      "summary": "New series, Fighting for a Living, part 1. Were Japan's first samurai rebels filling the void left by an effete court, or contractors the court chose to hire, licensed with titles and warrants, and kept on a leash for three hundred years? From the conscript army of 792 and the emishi wars to Taira no Masakado's revolt, the contract constabulary, and the Japanese debate over where the samurai came from."
-    }
-  ]
+  {
+   "n": 2,
+   "title": "Bronze and Gold",
+   "date": "2026-10-02",
+   "file": "episodes/02-bronze-and-gold.mp3",
+   "script": "https://claude.ai/code/artifact/ad0a9df6-5835-4155-a8a6-8c0cbfbd9c1e",
+   "summary": "Why the Greeks beat Persia, and how they kept a military edge for a century afterwards."
+  },
+  {
+   "n": 3,
+   "title": "Barbarians at the Standards",
+   "date": "2026-10-03",
+   "file": "episodes/03-barbarians-at-the-standards.mp3",
+   "script": "https://claude.ai/code/artifact/e816331a-4798-4652-83dd-4eb50d2e2c2b",
+   "summary": "Was the late Roman army \"barbarized\", and did that make it worse or less loyal?"
+  },
+  {
+   "n": 4,
+   "title": "The Bottomless Well",
+   "date": "2026-10-04",
+   "file": "episodes/04-the-bottomless-well.mp3",
+   "script": "https://claude.ai/code/artifact/38dcbdbe-f8e6-42c1-b5f2-515817df4963",
+   "summary": "Why the Republic regenerated after Cannae while the late empire spent decades in crisis after Adrianople. Short version: it wasn't grit. It was whether the core that paid for and filled the army survived."
+  },
+  {
+   "n": 5,
+   "title": "The Art of Fighting",
+   "date": "2026-10-05",
+   "file": "episodes/05-the-art-of-fighting.mp3",
+   "script": "https://claude.ai/code/artifact/6b04f6af-e998-41af-a0cb-6154012bf255",
+   "summary": "What medieval fight books were actually for, and how far they and the battlefield graves of Visby, Towton and Aljubarrota show how people really fought."
+  },
+  {
+   "n": 6,
+   "title": "Point Taken",
+   "date": "2026-10-06",
+   "file": "episodes/06-point-taken.mp3",
+   "script": "https://claude.ai/code/artifact/183817a7-e651-46c8-8a7c-01ee08e06e7a",
+   "summary": "Why swordsmanship moved from the longsword and the judicial duel to the rapier and the private duel of honour, and why the change was social rather than technical."
+  },
+  {
+   "n": 7,
+   "title": "Stakes in the River",
+   "date": "2026-10-07",
+   "file": "episodes/07-stakes-in-the-river.mp3",
+   "script": "https://claude.ai/code/artifact/a72f1654-2786-4371-a210-4eca5c33f7f0",
+   "summary": "Why the Mongols and the Yuan failed in Đại Việt, Champa, Burma and Java (1257–1303): monsoon, malaria, improvised fleets, the stakes at Bạch Đằng, and local rulers who used the invaders for their own ends."
+  },
+  {
+   "n": 8,
+   "title": "Did Water Kill Angkor?",
+   "date": "2026-10-08",
+   "file": "episodes/08-did-water-kill-angkor.mp3",
+   "script": "https://claude.ai/code/artifact/2b5de732-e513-4cee-9d0a-6c065c150da0",
+   "summary": "War, megadrought, a brittle water network, or an elite that drifted away first? Why Angkor faded, and why 'transformation, not collapse' is the better story."
+  },
+  {
+   "n": 9,
+   "title": "Fire from the South",
+   "date": "2026-10-09",
+   "file": "episodes/09-fire-from-the-south.mp3",
+   "script": "https://claude.ai/code/artifact/f0620597-5e96-4f97-bb40-6fa61ebfa9ba",
+   "summary": "Was there a military revolution in Southeast Asia, c. 1390–1620? Ming guns in the Shan hills, Đại Việt as a gunpowder state, foreign gunners in Burma and Siam, and one connected Eurasian gunpowder age."
+  },
+  {
+   "n": 10,
+   "title": "Empire of the Straits?",
+   "date": "2026-10-16",
+   "file": "episodes/10-empire-of-the-straits.mp3",
+   "script": "https://claude.ai/code/artifact/d4222f08-de64-4c95-955a-67c7bbdd1771",
+   "summary": "Srivijaya: empire or network? Yijing's Sumatran monastery, curse stones and Old Malay oaths, a wooden port in the swamps, the Belitung wreck, the Sanfoqi debate in Japanese and Chinese scholarship, and the Chola raid of 1025."
+  },
+  {
+   "n": 11,
+   "title": "The Battle That Wasn't? Talas, 751",
+   "date": "2026-10-17",
+   "file": "episodes/11-the-battle-that-wasnt.mp3",
+   "script": "https://claude.ai/code/artifact/65af0f8d-2bc8-4090-84a7-4af04bf3cb9f",
+   "summary": "Did the Battle of Talas matter? A frontier clash the Arabic chronicles forgot, a Korean-born Tang general, the Karluk defection, Du Huan's captivity in the caliphate, the paper myth, An Lushan, and six national memories of one afternoon in 751."
+  },
+  {
+   "n": 12,
+   "title": "The Empire That Wasn't Built: Timur",
+   "date": "2026-10-17",
+   "file": "episodes/12-the-empire-that-wasnt-built.mp3",
+   "script": "https://claude.ai/code/artifact/ce80fbf4-f3cd-45a7-a213-83126482688a",
+   "summary": "Was Timur a conquest machine with no afterlife? Ibn Khaldun in his tent, puppet khans and skull towers, Ankara and the plunder of Bursa, Clavijo's Samarkand, the hostile witness Ibn Arabshah, and the Timurid afterlife from Ulugh Beg to the Mughals."
+  },
+  {
+   "n": 13,
+   "title": "Heresy Came First? The Many Christianities",
+   "date": "2026-10-17",
+   "file": "episodes/13-heresy-came-first.mp3",
+   "script": "https://claude.ai/code/artifact/4818be72-740b-46d5-ba5e-ea0c8be712ac",
+   "summary": "Was there one original Christianity, or many? Walter Bauer's 1934 thesis tested in Edessa, Alexandria and Rome, with Marcion's returned donation and his disputed gospel, Nag Hammadi, the Ebionites, the Phrygian prophets, and the critics who fought back."
+  },
+  {
+   "n": 14,
+   "title": "Who Conquered Mexico? The Tlaxcalan Conquest",
+   "date": "2026-10-17",
+   "file": "episodes/14-tlaxcala.mp3",
+   "script": "https://claude.ai/code/artifact/80c4930f-07b3-463d-bc20-b692869ca3da",
+   "summary": "Was the fall of Tenochtitlan a Spanish conquest or an Indigenous war? Tlaxcala's choice after the Noche Triste, Cholula, Malintzin, smallpox and the brigantines, the view from Tlatelolco, Indian conquistadors, the Lienzo de Tlaxcala, and how Tlaxcala became a byword for treason."
+  },
+  {
+   "n": 15,
+   "title": "We Are Hungry: The Deir el-Medina Strike",
+   "date": "2026-10-18",
+   "file": "episodes/15-deir-el-medina.mp3",
+   "script": "https://claude.ai/code/artifact/c4cb48d2-39c0-4c99-b6e9-0b7175b3ff9f",
+   "summary": "Silent servants of pharaoh, or striking workers? The royal tomb-builders of Deir el-Medina: grain wages, sick notes and scorpions, the village court and oracle, the villain Paneb, Naunakhte's will, the Turin Strike Papyrus of year 29 of Ramesses III, and the tomb robberies that followed."
+  },
+  {
+   "n": 16,
+   "title": "The Miller's Cosmos: Menocchio and The Cheese and the Worms",
+   "date": "2026-10-19",
+   "file": "episodes/16-menocchio.mp3",
+   "script": "https://claude.ai/code/artifact/f0871e78-0f05-4e0e-ba29-71d2b1c2e635",
+   "summary": "A Friulian miller tells the Inquisition that the angels were worms in the cheese of creation. Menocchio's books and how he read them, his two trials and death in 1599, Carlo Ginzburg's microhistory and its critics, the Roman Inquisition beyond the black legend, and the benandanti."
+  },
+  {
+   "n": 17,
+   "title": "The Spring of Goliath: Did Ain Jalut Stop the Mongols?",
+   "date": "2026-10-19",
+   "file": "episodes/17-ain-jalut.mp3",
+   "script": "https://claude.ai/code/artifact/6f0f8f1c-ee0c-45c0-9702-9455509562fa",
+   "summary": "The battle that saved Islam, or a win against a Mongol rearguard? Hulagu's withdrawal and the pasture thesis, Kipchak slave soldiers made by the Mongol conquests, the murder of Qutuz, sixty years of Mamluk-Ilkhanid war, Mongols on both sides of strange alliances, and how Ain Jalut is remembered."
+  },
+  {
+   "n": 18,
+   "title": "The Luminous Religion: The Church of the East in Tang China",
+   "date": "2026-10-19",
+   "file": "episodes/18-church-of-the-east.mp3",
+   "script": "https://claude.ai/code/artifact/cfb6f66c-687e-4dfd-8ced-e5d27c01e942",
+   "summary": "Christianity reached China from Persia in 635, a thousand years before the Jesuits. The 'Nestorian' misnomer, Aluoben and the 638 edict, the Xi'an stele of 781, Buddhist-style sutras and a forgery fight, Sogdian Christians on the Luoyang pillar, the persecution of 845, the Mongol revival, and a Danish adventurer who tried to buy the stele."
+  },
+  {
+   "n": 19,
+   "title": "Peasants into Frenchmen: When Did France Become French?",
+   "date": "2026-10-19",
+   "file": "episodes/19-peasants-into-frenchmen.mp3",
+   "script": "https://claude.ai/code/artifact/75791b93-58bb-449e-970c-49cead55ba11",
+   "summary": "Napoleon mistaken for a travelling salesman, a quarter of France not speaking French in 1863, and the schoolroom token of shame. Eugen Weber's thesis that roads, schools and the army made peasants into Frenchmen between 1870 and 1914, his critics on markets, 1851 and identity from below, the Tour de la France par deux enfants, the test of August 1914, and a Tuscan villager who was a proud vassal of his Grand Duke in 1643. First in a series built on Weber and Gregory Hanlon's Human Nature in Rural Tuscany."
+  },
+  {
+   "n": 20,
+   "title": "The Token of Shame: France's Schoolroom War on Languages",
+   "date": "2026-10-20",
+   "file": "episodes/20-token-of-shame.mp3",
+   "script": "https://claude.ai/code/artifact/cca7a754-c9a4-4556-85a4-d30be3930d17",
+   "summary": "A wooden clog round a child's neck for speaking Breton. Barère's 1794 war on patois, priests and Breton catechism, the symbole and new research on how common it was, inspectors' reports of children reading French without understanding it, why parents chose French, Mistral's Nobel Prize, Alsace under two states, when the languages really died, Italy, Wales and Okinawa, and the 2021 Constitutional Council ruling against immersion schools. Second in the Weber and Hanlon series."
+  },
+  {
+   "n": 21,
+   "title": "The Workable Family: Infanticide in a Tuscan Village",
+   "date": "2026-10-20",
+   "file": "episodes/21-workable-family.mp3",
+   "script": "https://claude.ai/code/artifact/020f87de-e18a-47eb-a24e-49110bc2c9ba",
+   "summary": "Too few girls in a bishop's confirmation list. Courtship serenades and dowry votes with beans, illegitimacy and the foundling wheel, Gregory Hanlon's case that married sharecroppers quietly let newborns die in famine years, one trial, a church that looked away, the case against the numbers, Italy's foundling hospitals, China's missing girls, and dowries and wills. Third in the Weber and Hanlon series."
+  },
+  {
+   "n": 22,
+   "title": "Knives at the Veglia: How Violent Was the Premodern Village?",
+   "date": "2026-10-20",
+   "file": "episodes/22-knives-at-the-veglia.mp3",
+   "script": "https://claude.ai/code/artifact/90893331-6cb2-4820-8c68-29952100ec93",
+   "summary": "A misfired musket and an axe stopped at a church door. Six centuries of European homicide rates, a Tuscan village's 490 criminal cases, goats and crop damage, insults and the swords of the people, the village hard men who grew up to run the place, truces and peace treaties, Weber's French village wars and the prayer 'deliver us from justice', why violence fell, and how Italy went from Europe's most violent to among its calmest. Fourth in the Weber and Hanlon series."
+  },
+  {
+   "n": 23,
+   "date": "2026-10-20",
+   "title": "Up to the Neck in Water: Why Peasants Rebel",
+   "file": "episodes/23-up-to-the-neck-in-water.mp3",
+   "script": "https://claude.ai/code/artifact/40485950-cbe5-4002-9085-f1cf59727816",
+   "summary": "Tattooed rebels in Burma and burned tax rolls in Vietnam, 1930. James C. Scott's moral economy of the peasant: the drowning man, safety-first farming, the village as insurance, why fixed rents and head taxes were deadlier than larger shares, the Saya San rising and the Nghe-Tinh soviets, and the case for Samuel Popkin's rational peasant. First in the Scott and Fei series."
+  },
+  {
+   "n": 24,
+   "date": "2026-10-20",
+   "title": "Ripples in a Pond: Fei Xiaotong and the Shape of Chinese Society",
+   "file": "episodes/24-ripples-in-a-pond.mp3",
+   "script": "https://claude.ai/code/artifact/00692ca2-f099-4c56-af75-bc10aa426da9",
+   "summary": "Stove dirt in red paper, 1936. Fei Xiaotong's From the Soil: bundles of straw versus ripples in a pond, selfishness and personal morality, the family as a corporation, rule by ritual and elders, illiteracy as adaptation, why neighbours walked to market to trade as strangers, Fei set against Scott, the Qing court archives that put 'a society without litigation' on trial, and Fei's fall, return and the rise of guanxi. Second in the Scott and Fei series."
+  },
+  {
+   "n": 25,
+   "date": "2026-10-20",
+   "title": "Heaven Is High: How the State Reached the Village",
+   "file": "episodes/25-heaven-is-high.mp3",
+   "script": "https://claude.ai/code/artifact/e38115c3-e2de-4373-a704-35d8e811b4ed",
+   "summary": "A Tuscan militiaman, a Breton police chief with an interpreter, Vietnamese peasants burning tax rolls and a silent Chinese headman. The first crossover episode sets Weber, Hanlon, Scott and Fei side by side: despotic vs infrastructural power, brokers and legibility, the thin Qing state, the Tuscan tutor state, France's late arrival, the colonial tax machine, plus taxes, soldiers and priests compared. Why reach without return bred resistance, and reach with return bred citizens."
+  },
+  {
+   "n": 26,
+   "date": "2026-10-21",
+   "title": "Deliver Us from Justice: Were Peasants Law-Shy or Litigious?",
+   "file": "episodes/26-deliver-us-from-justice.mp3",
+   "script": "https://claude.ai/artifact/MhsXr2i51HTsxVqWSLmdEW",
+   "summary": "Saint Ives sneaks into heaven. The second crossover episode asks whether premodern peasants avoided courts or sued constantly: the no-lawsuit ideal from Confucius to Breton proverbs, Qing archives and the 'third realm', a Tuscan village that went to court every day, France's justice of the peace, colonial courts as the moneylender's weapon, plus debt, legal middlemen, women litigants and why everyone mediated in the court's shadow."
+  },
+  {
+   "n": 27,
+   "date": "2026-10-21",
+   "title": "The Jettatore: Naples Invents a Half-Joking Evil Eye",
+   "file": "episodes/27-the-jettatore.mp3",
+   "script": "https://claude.ai/artifact/EHCeA2xbFr3GZsBg1KLBcu",
+   "summary": "A king refuses to meet a kindly canon for fifteen years, finally relents, and dies the next morning. The first episode from Ernesto de Martino's Sud e magia asks why Enlightenment Naples invented the jettatore, the unwitting bringer of bad luck: peasant fascination in Lucania, Valletta's 1787 joke book with a dead child in it, electricity and evil eyes, Dumas and Gautier, Bourbon kings who didn't believe it but, and whether it was ever really a joke."
+  },
+  {
+   "n": 28,
+   "date": "2026-10-22",
+   "title": "The Cruel Carnival: Vendetta and Revolt in Udine, 1511",
+   "file": "episodes/28-the-cruel-carnival.mp3",
+   "script": "https://claude.ai/artifact/RjVYvYHh6JPd1TBNSsCVQr",
+   "summary": "Fat Thursday, 1511: a nobleman paints his coat of arms on a rival's well, and Udine erupts. From Edward Muir's Mad Blood Stirring: Friuli's feuding clans, the populist warlord Antonio Savorgnan, two days of massacre and weeks of burning castles, an earthquake, a plague, an assassination with a dog, the slow switch from butchery to duels, and the love story that became Romeo and Juliet. Was it a peasant revolt, a noble vendetta, or carnival gone wrong? Contains graphic violence."
+  },
+  {
+   "n": 29,
+   "date": "2026-10-22",
+   "title": "Long Live the King, Death to the Exciseman",
+   "file": "episodes/29-long-live-the-king.mp3",
+   "script": "https://claude.ai/artifact/G6GM246BwVjohHE46VGENM",
+   "summary": "Thirty thousand peasants in a forest clearing, a captured tax assessor writing their petition, and a general who didn't want the job. From Yves-Marie Bercé's History of Peasant Revolts: the Croquant risings of south-west France from 1548 to 1707, the salt tax, the 'Out-of-Dates', the battle of La Sauvetat, exciseman-dragging rituals, rumours of a tax on babies, and a Cold War argument between a Soviet historian (later a yeti hunter) and a French one: was it class war?"
+  },
+  {
+   "n": 30,
+   "date": "2026-10-22",
+   "title": "The Godly and the Drunk",
+   "file": "episodes/30-the-godly-and-the-drunk.mp3",
+   "script": "https://claude.ai/artifact/Cyi8a5M7vZqSt2jaUcKCDh",
+   "summary": "An innkeeper who saws down his enemy's fences, a constable who reports that 'ower town is well reformed', and a charity that made the poor wear a badge. From Keith Wrightson and David Levine's Poverty and Piety in an English Village: Terling in Essex, 1525 to 1700, where the poor doubled, the farmers got godly, and the alehouses came under siege. Then the critics: Spufford, Ingram, Ged Martin and a dead squire, plus Swiss morals courts. Was Puritanism a weapon of the better sort?"
+  },
+  {
+   "n": 31,
+   "date": "2026-10-23",
+   "title": "The Buried Bull",
+   "file": "episodes/31-the-buried-bull.mp3",
+   "script": "https://claude.ai/artifact/Seo6Nhy7FK3fqo9f2T3X9b",
+   "summary": "In 1796 a Württemberg village buried its bull alive at a crossroads to stop a cattle plague, and then nobody would admit to believing in it. From David Sabean's Power in the Blood: six case files from 1580 to 1801, with a man who can't say the forgiving part of the Lord's Prayer, a vintner whose angel makes the vines bleed, a thirteen-year-old 'witch', a pastor found dead in a brook, and a headman who stood squarely in the zone of 'perhaps'."
+  },
+  {
+   "n": 32,
+   "date": "2026-10-24",
+   "title": "Who Burned the Witches?",
+   "file": "episodes/32-who-burned-the-witches.mp3",
+   "script": "https://claude.ai/artifact/AeC1YGDMWfKUsqphAKub2q",
+   "summary": "A fifty-four-year-old cowherd in Artois, thirteen witnesses, and a Devil who only shows up when the torturer does. From Robert Muchembled's Popular Culture and Elite Culture in France: the witch trials of the Cambrésis and Artois, 1580 to 1680, where judges brought the sabbath and neighbours brought the dead cows, villages petitioned and paid for trials, and one clerk noted that some witches went unburned for lack of funds. Was the witch hunt a war on popular culture? With Briggs, Monter and the critics."
+  },
+  {
+   "n": 33,
+   "date": "2026-10-25",
+   "title": "Growth Without Development",
+   "file": "episodes/33-growth-without-development.mp3",
+   "script": "https://claude.ai/artifact/LSRghvJg5VvfMnbavNaSBp",
+   "summary": "A thug and a monk try to steal a village's temple land, and a Japanese researcher working for the occupiers stops them. From Philip Huang's The Peasant Economy and Social Change in North China: the Mantetsu surveys, managerial farms that never became capitalist, half-peasant half-worker families, labourers too poor to marry, village bullies, and three centuries of growth without development. Plus the critics, and how Huang's word 'involution' became China's 2020 buzzword for the rat race."
+  },
+  {
+   "n": 34,
+   "date": "2026-10-25",
+   "title": "Weapons of the Weak",
+   "file": "episodes/34-weapons-of-the-weak.mp3",
+   "script": "https://claude.ai/artifact/72moAyzDmRr3sBh334MQhS",
+   "summary": "When peasants can't revolt, what do they do instead? James C. Scott's Weapons of the Weak (1985): a Kedah rice village, the combine-harvesters that ate the harvest work, Razak and Haji Broom, a transplanting boycott that never quite announced itself, and whether gossip, foot-dragging and stolen rice count as resistance. Series 5, episode 7."
+  },
+  {
+   "n": 35,
+   "date": "2026-10-26",
+   "title": "The Village Reformers",
+   "file": "episodes/35-the-village-reformers.mp3",
+   "script": "https://claude.ai/artifact/SpZ67CZf7R91htgRzk65jm",
+   "summary": "Who wanted the village disciplined, and why? A cross-analysis of six villages from the bucket: Terling's godly yeomen, a Württemberg headman, the 'sounder part' of Artois, Tuscan priests and missions, Chinese elders reading the Sacred Edict, and Sedaka's ruling-party committee. States and churches built the machinery; the villages' own better-off households drove it."
+  },
+  {
+   "n": 36,
+   "date": "2026-10-26",
+   "title": "Special Edition: Kennings and Bars",
+   "file": "episodes/36-kennings-and-bars.mp3",
+   "script": "https://claude.ai/artifact/FyaD9Cjsy8aQ8rVAnDifGY",
+   "summary": "Is modern gangster rap a spiritual cousin of Norse-Germanic epic hero culture? A feature-length special setting skalds, sagas and Beowulf beside gangsta rap: paid praise poets, flyting and beef, honour without a state, rings and chains, lords and crews, fame after death, and verse that lands its makers in court. Verdict: cousins by circumstance, not by blood."
+  },
+  {
+   "n": 37,
+   "date": "2026-10-26",
+   "title": "Magic Meets the State",
+   "file": "episodes/37-magic-meets-the-state.mp3",
+   "script": "https://claude.ai/artifact/J99Bn6rTu3m1zp4kwq25DX",
+   "summary": "When officials, inquisitors, judges and schoolteachers met village magic, who changed whom? A cross-analysis from a bull buried alive at Beutelsbach in 1796, through the witch trials of the Cambrésis, the Roman Inquisition in Tuscany, France's sorcerers, de Martino's Lucania and Qing China's soulstealing scare of 1768. The state rarely killed magic, but it decided whom magic could get killed."
+  },
+  {
+   "n": 38,
+   "date": "2026-10-27",
+   "title": "Hired Swords",
+   "file": "episodes/38-hired-swords.mp3",
+   "script": "https://claude.ai/artifact/DiT6uxrfpBmkLNdXjbzeKX",
+   "summary": "New series, Fighting for a Living, part 1. Were Japan's first samurai rebels filling the void left by an effete court, or contractors the court chose to hire, licensed with titles and warrants, and kept on a leash for three hundred years? From the conscript army of 792 and the emishi wars to Taira no Masakado's revolt, the contract constabulary, and the Japanese debate over where the samurai came from."
+  },
+  {
+   "n": 39,
+   "date": "2026-10-27",
+   "title": "The War People",
+   "file": "episodes/39-the-war-people.mp3",
+   "script": "https://claude.ai/artifact/XnjH2Mngt4VQM3VEUfCxyn",
+   "summary": "Fighting for a Living, part 2. Were the mercenaries of the Thirty Years War the rootless, marauding scum of legend, or a working society with its own law, honour, families and wages? One Saxon regiment raised for the King of Spain in 1625, followed to Italy and its slow, polite collapse: recruits, women, lawsuits, civilians, pay and the German debate."
+  }
+ ]
 }
