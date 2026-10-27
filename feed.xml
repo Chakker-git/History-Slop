@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:47:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:03:23 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -16,14 +16,30 @@
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
     <item>
+      <title>38. Hired Swords</title>
+      <itunes:title>Hired Swords</itunes:title>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep38</guid>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/38-hired-swords.mp3" length="26307041" type="audio/mpeg"/>
+      <itunes:duration>3280</itunes:duration>
+      <description><![CDATA[<p>New series, Fighting for a Living, part 1. Were Japan's first samurai rebels filling the void left by an effete court, or contractors the court chose to hire, licensed with titles and warrants, and kept on a leash for three hundred years? From the conscript army of 792 and the emishi wars to Taira no Masakado's revolt, the contract constabulary, and the Japanese debate over where the samurai came from.</p><p><a href="https://claude.ai/artifact/DiT6uxrfpBmkLNdXjbzeKX">Script and sources</a></p>]]></description>
+      <itunes:summary>New series, Fighting for a Living, part 1. Were Japan's first samurai rebels filling the void left by an effete court, or contractors the court chose to hire, licensed with titles and warrants, and kept on a leash for three hundred years? From the conscript army of 792 and the emishi wars to Taira no Masakado's revolt, the contract constabulary, and the Japanese debate over where the samurai came from.
+
+Script and sources: https://claude.ai/artifact/DiT6uxrfpBmkLNdXjbzeKX</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/DiT6uxrfpBmkLNdXjbzeKX</link>
+    </item>
+    <item>
       <title>37. Magic Meets the State</title>
       <itunes:title>Magic Meets the State</itunes:title>
       <itunes:episode>37</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <guid isPermaLink="false">history-slop-ep37</guid>
       <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
-      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/37-magic-meets-the-state.mp3" length="25663020" type="audio/mpeg"/>
-      <itunes:duration>3200</itunes:duration>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/37-magic-meets-the-state.mp3" length="25718191" type="audio/mpeg"/>
+      <itunes:duration>3207</itunes:duration>
       <description><![CDATA[<p>When officials, inquisitors, judges and schoolteachers met village magic, who changed whom? A cross-analysis from a bull buried alive at Beutelsbach in 1796, through the witch trials of the Cambrésis, the Roman Inquisition in Tuscany, France's sorcerers, de Martino's Lucania and Qing China's soulstealing scare of 1768. The state rarely killed magic, but it decided whom magic could get killed.</p><p><a href="https://claude.ai/artifact/J99Bn6rTu3m1zp4kwq25DX">Script and sources</a></p>]]></description>
       <itunes:summary>When officials, inquisitors, judges and schoolteachers met village magic, who changed whom? A cross-analysis from a bull buried alive at Beutelsbach in 1796, through the witch trials of the Cambrésis, the Roman Inquisition in Tuscany, France's sorcerers, de Martino's Lucania and Qing China's soulstealing scare of 1768. The state rarely killed magic, but it decided whom magic could get killed.
 
