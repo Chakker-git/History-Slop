@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 09:55:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:22:22 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>40. Naukar, Rajput and Sepoy</title>
+      <itunes:title>Naukar, Rajput and Sepoy</itunes:title>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep40</guid>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/40-naukar-rajput-and-sepoy.mp3" length="21535794" type="audio/mpeg"/>
+      <itunes:duration>2684</itunes:duration>
+      <description><![CDATA[<p>Fighting for a Living, part 3. Was "Rajput" a caste you were born into, or a job you could take? North India's vast market for peasant soldiers, from Sher Shah's paymasters and the Purbiya brokers to the Bundelas who made themselves Rajput, the recruiting town of Baksar, the East India Company's sepoys and 1857.</p><p><a href="https://claude.ai/artifact/8yFBXHs7TjJQMAoctAyYZv">Script and sources</a></p>]]></description>
+      <itunes:summary>Fighting for a Living, part 3. Was "Rajput" a caste you were born into, or a job you could take? North India's vast market for peasant soldiers, from Sher Shah's paymasters and the Purbiya brokers to the Bundelas who made themselves Rajput, the recruiting town of Baksar, the East India Company's sepoys and 1857.
+
+Script and sources: https://claude.ai/artifact/8yFBXHs7TjJQMAoctAyYZv</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/8yFBXHs7TjJQMAoctAyYZv</link>
+    </item>
     <item>
       <title>39. The War People</title>
       <itunes:title>The War People</itunes:title>
