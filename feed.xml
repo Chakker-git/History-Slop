@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:18:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 18:04:47 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>44. Born Soldiers</title>
+      <itunes:title>Born Soldiers</itunes:title>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep44</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/44-born-soldiers.mp3" length="16410315" type="audio/mpeg"/>
+      <itunes:duration>2042</itunes:duration>
+      <description><![CDATA[<p>Fighting for a Living, part 6. What happens when an empire makes soldiering something you inherit? Ming China's hereditary military households, farming garrisons and grain barges; the hired men and generals' housemen who did the real fighting; the Qing Eight Banners as a pensioned conquest caste; the Green Standard, baggage pay and the 462,000 porters of the Gold River war; how families gamed the system; and born soldiers from Tokugawa Japan to Russia and Prussia.</p><p><a href="https://claude.ai/artifact/J5gkuhZSPPHALBJAz9rhWX">Script and sources</a></p>]]></description>
+      <itunes:summary>Fighting for a Living, part 6. What happens when an empire makes soldiering something you inherit? Ming China's hereditary military households, farming garrisons and grain barges; the hired men and generals' housemen who did the real fighting; the Qing Eight Banners as a pensioned conquest caste; the Green Standard, baggage pay and the 462,000 porters of the Gold River war; how families gamed the system; and born soldiers from Tokugawa Japan to Russia and Prussia.
+
+Script and sources: https://claude.ai/artifact/J5gkuhZSPPHALBJAz9rhWX</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/J5gkuhZSPPHALBJAz9rhWX</link>
+    </item>
     <item>
       <title>43. Private War (special)</title>
       <itunes:title>Private War (special)</itunes:title>
