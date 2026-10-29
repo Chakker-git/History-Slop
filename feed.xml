@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 10:22:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:23:56 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>41. Götz of the Iron Hand</title>
+      <itunes:title>Götz of the Iron Hand</itunes:title>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep41</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/41-gotz-of-the-iron-hand.mp3" length="19297567" type="audio/mpeg"/>
+      <itunes:duration>2404</itunes:duration>
+      <description><![CDATA[<p>Fighting for a Living, part 4. Robber knight, last free knight, or a small contractor of violence whose best customers were princes? Götz von Berlichingen in his own words: the hand lost at Landshut, feuds over a tailor's prize and a bishop's merchants, the imperial ban, knightly custody in Heilbronn, one month as captain of the peasants in 1525, and the line Goethe made famous.</p><p><a href="https://claude.ai/artifact/AnZfn4K6DeEpFLdnZPXEnP">Script and sources</a></p>]]></description>
+      <itunes:summary>Fighting for a Living, part 4. Robber knight, last free knight, or a small contractor of violence whose best customers were princes? Götz von Berlichingen in his own words: the hand lost at Landshut, feuds over a tailor's prize and a bishop's merchants, the imperial ban, knightly custody in Heilbronn, one month as captain of the peasants in 1525, and the line Goethe made famous.
+
+Script and sources: https://claude.ai/artifact/AnZfn4K6DeEpFLdnZPXEnP</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/AnZfn4K6DeEpFLdnZPXEnP</link>
+    </item>
     <item>
       <title>40. Naukar, Rajput and Sepoy</title>
       <itunes:title>Naukar, Rajput and Sepoy</itunes:title>
