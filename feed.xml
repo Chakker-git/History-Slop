@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 15:59:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:18:35 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>43. Private War (special)</title>
+      <itunes:title>Private War (special)</itunes:title>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep43</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/43-private-war.mp3" length="16856687" type="audio/mpeg"/>
+      <itunes:duration>2099</itunes:duration>
+      <description><![CDATA[<p>A special companion to the Götz episode. Was the feud, private war fought by rules inside a realm, the enemy of the state or one of the tools that built it? Franconia's feuding knights through Hillay Zmora's count of 255 feuds, then France's forty-day truces and royal bans, England's sieges and last private battle, Scotland's bloodfeud, Friuli's vendetta, saga Iceland and Japan's 'both sides are punished'.</p><p><a href="https://claude.ai/artifact/JR1iKbDmFqVjdeqrMgykcU">Script and sources</a></p>]]></description>
+      <itunes:summary>A special companion to the Götz episode. Was the feud, private war fought by rules inside a realm, the enemy of the state or one of the tools that built it? Franconia's feuding knights through Hillay Zmora's count of 255 feuds, then France's forty-day truces and royal bans, England's sieges and last private battle, Scotland's bloodfeud, Friuli's vendetta, saga Iceland and Japan's 'both sides are punished'.
+
+Script and sources: https://claude.ai/artifact/JR1iKbDmFqVjdeqrMgykcU</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/JR1iKbDmFqVjdeqrMgykcU</link>
+    </item>
     <item>
       <title>42. Slaves Who Became Shopkeepers</title>
       <itunes:title>Slaves Who Became Shopkeepers</itunes:title>
