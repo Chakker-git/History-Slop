@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 18:04:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 07:35:04 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>45. Scum of Every County?</title>
+      <itunes:title>Scum of Every County?</itunes:title>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep45</guid>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/45-scum-of-every-county.mp3" length="17047405" type="audio/mpeg"/>
+      <itunes:duration>2119</itunes:duration>
+      <description><![CDATA[<p>Fighting for a Living, part 7. Were the Scots who fought for Sweden, Denmark and the Dutch, and the men who filled Britain's eighteenth-century army, really 'the scum of every county'? Licensed levies and merchant recruiters, vagabonds pressed for Bohemia, Mackay's Regiment, the 48-day month, press acts and crimps, the skilled tradesmen in the ranks, the Highlands as a reservoir after Culloden, Ireland's banned Catholics, Hessians for hire, and a pitchfork fight over an indentured servant in New Jersey.</p><p><a href="https://claude.ai/artifact/LH4VEk9GL6nSWDKWBf9xjj">Script and sources</a></p>]]></description>
+      <itunes:summary>Fighting for a Living, part 7. Were the Scots who fought for Sweden, Denmark and the Dutch, and the men who filled Britain's eighteenth-century army, really 'the scum of every county'? Licensed levies and merchant recruiters, vagabonds pressed for Bohemia, Mackay's Regiment, the 48-day month, press acts and crimps, the skilled tradesmen in the ranks, the Highlands as a reservoir after Culloden, Ireland's banned Catholics, Hessians for hire, and a pitchfork fight over an indentured servant in New Jersey.
+
+Script and sources: https://claude.ai/artifact/LH4VEk9GL6nSWDKWBf9xjj</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/LH4VEk9GL6nSWDKWBf9xjj</link>
+    </item>
     <item>
       <title>44. Born Soldiers</title>
       <itunes:title>Born Soldiers</itunes:title>
