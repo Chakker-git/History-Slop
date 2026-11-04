@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 07:35:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 08:29:50 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>46. Soldiers for Life</title>
+      <itunes:title>Soldiers for Life</itunes:title>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep46</guid>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/46-soldiers-for-life.mp3" length="27470940" type="audio/mpeg"/>
+      <itunes:duration>3426</itunes:duration>
+      <description><![CDATA[<p>Fighting for a Living, part 8. How did a serf empire raise one of Europe's largest armies for two centuries? Russia 1649–1861: the village commune choosing its recruits, exemption receipts and paid substitutes, deserters in chains, soldiers' wives freed and stranded, soldiers' children born into the army, Jewish cantonists and Arakcheev's military settlements, a semi-standing army of side jobs and collective funds, and a company on the Åland Islands that stopped work because 'the tsar did not order us to starve'.</p><p><a href="https://claude.ai/artifact/G6mu2wtGJHzhQHEQeF2Eh7">Script and sources</a></p>]]></description>
+      <itunes:summary>Fighting for a Living, part 8. How did a serf empire raise one of Europe's largest armies for two centuries? Russia 1649–1861: the village commune choosing its recruits, exemption receipts and paid substitutes, deserters in chains, soldiers' wives freed and stranded, soldiers' children born into the army, Jewish cantonists and Arakcheev's military settlements, a semi-standing army of side jobs and collective funds, and a company on the Åland Islands that stopped work because 'the tsar did not order us to starve'.
+
+Script and sources: https://claude.ai/artifact/G6mu2wtGJHzhQHEQeF2Eh7</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/G6mu2wtGJHzhQHEQeF2Eh7</link>
+    </item>
     <item>
       <title>45. Scum of Every County?</title>
       <itunes:title>Scum of Every County?</itunes:title>
