@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 08:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:31:47 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>47. True to Their Salt</title>
+      <itunes:title>True to Their Salt</itunes:title>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep47</guid>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/47-true-to-their-salt.mp3" length="27946438" type="audio/mpeg"/>
+      <itunes:duration>3485</itunes:duration>
+      <description><![CDATA[<p>Fighting for a Living, part 9. Why did hundreds of thousands of Indian men fight for a British trading company? From peons with matchlocks to the French cipayes and the siege of Arcot, Indian officers as contractors, six rupees a month and remittances home, the Company's own kidnapped European recruits, Orme's wheat theory and Hastings on caste, the Bengal Army as a high-caste closed shop, and the mutinies at Vellore and Barrackpore on the road to 1857.</p><p><a href="https://claude.ai/artifact/FHPR3S3RRNbrBZ4QCGzmCZ">Script and sources</a></p>]]></description>
+      <itunes:summary>Fighting for a Living, part 9. Why did hundreds of thousands of Indian men fight for a British trading company? From peons with matchlocks to the French cipayes and the siege of Arcot, Indian officers as contractors, six rupees a month and remittances home, the Company's own kidnapped European recruits, Orme's wheat theory and Hastings on caste, the Bengal Army as a high-caste closed shop, and the mutinies at Vellore and Barrackpore on the road to 1857.
+
+Script and sources: https://claude.ai/artifact/FHPR3S3RRNbrBZ4QCGzmCZ</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/FHPR3S3RRNbrBZ4QCGzmCZ</link>
+    </item>
     <item>
       <title>46. Soldiers for Life</title>
       <itunes:title>Soldiers for Life</itunes:title>
