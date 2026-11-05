@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 16:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 18:35:52 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>48. The Taxman as Villain</title>
+      <itunes:title>The Taxman as Villain</itunes:title>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep48</guid>
+      <pubDate>Thu, 05 Nov 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/48-the-taxman-as-villain.mp3" length="25866842" type="audio/mpeg"/>
+      <itunes:duration>3224</itunes:duration>
+      <description><![CDATA[<p>Back to the village series, comparing across the books. Why was the tax collector, rather than the king, the villain of so many peasant worlds? The French exciseman as cannibal and the imaginary taxes on births and burials; colonial head taxes in Burma and Vietnam and the mandarins who 'steal by day'; Qing China's unpaid xiangbao who paid bribes to avoid the job; a Tuscan shoemaker who was the village's favourite godfather and its tax collector; Republican China's predatory village heads; zakat dodging in a Malaysian rice village; and nineteenth-century peasants for whom 'France was taxes'.</p><p><a href="https://claude.ai/artifact/L1J1XZkzMu9RevTdvKTxit">Script and sources</a></p>]]></description>
+      <itunes:summary>Back to the village series, comparing across the books. Why was the tax collector, rather than the king, the villain of so many peasant worlds? The French exciseman as cannibal and the imaginary taxes on births and burials; colonial head taxes in Burma and Vietnam and the mandarins who 'steal by day'; Qing China's unpaid xiangbao who paid bribes to avoid the job; a Tuscan shoemaker who was the village's favourite godfather and its tax collector; Republican China's predatory village heads; zakat dodging in a Malaysian rice village; and nineteenth-century peasants for whom 'France was taxes'.
+
+Script and sources: https://claude.ai/artifact/L1J1XZkzMu9RevTdvKTxit</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/L1J1XZkzMu9RevTdvKTxit</link>
+    </item>
     <item>
       <title>47. True to Their Salt</title>
       <itunes:title>True to Their Salt</itunes:title>
