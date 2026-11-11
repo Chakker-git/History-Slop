@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:04:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 19:31:31 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>50. The Decline of the West</title>
+      <itunes:title>The Decline of the West</itunes:title>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep50</guid>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/50-the-decline-of-the-west.mp3" length="25349086" type="audio/mpeg"/>
+      <itunes:duration>5056</itunes:duration>
+      <description><![CDATA[<p>Special edition, extra long. Oswald Spengler said civilizations are organisms with souls and thousand-year life cycles, and that the West had entered its winter. We test his claims about the Greeks and Romans against Thucydides, Polybius, Momigliano, Edelstein, Bernard Williams, Harriet Flower's ancestor masks, Matthew Roller and Peter Brown, then ask whether civilizations really age, how Russia, China and the Islamic world read him, and how his prophecies scored.</p><p><a href="https://claude.ai/artifact/Aot5WegAdyKF3vZHHfoCBL">Script and sources</a></p>]]></description>
+      <itunes:summary>Special edition, extra long. Oswald Spengler said civilizations are organisms with souls and thousand-year life cycles, and that the West had entered its winter. We test his claims about the Greeks and Romans against Thucydides, Polybius, Momigliano, Edelstein, Bernard Williams, Harriet Flower's ancestor masks, Matthew Roller and Peter Brown, then ask whether civilizations really age, how Russia, China and the Islamic world read him, and how his prophecies scored.
+
+Script and sources: https://claude.ai/artifact/Aot5WegAdyKF3vZHHfoCBL</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/Aot5WegAdyKF3vZHHfoCBL</link>
+    </item>
     <item>
       <title>49. That Was My Booty</title>
       <itunes:title>That Was My Booty</itunes:title>
