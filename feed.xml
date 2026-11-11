@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:03:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:04:14 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>49. That Was My Booty</title>
+      <itunes:title>That Was My Booty</itunes:title>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep49</guid>
+      <pubDate>Wed, 11 Nov 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/49-that-was-my-booty.mp3" length="27548811" type="audio/mpeg"/>
+      <itunes:duration>3925</itunes:duration>
+      <description><![CDATA[<p>Series 6 special edition. Peter Hagendorf, a common soldier in the Thirty Years War, kept a pocket diary of 24 years of fighting for a living: shot twice at Magdeburg, forced into Swedish service at Straubing, back with his old company within the hour after Nördlingen, baking bread in a starving camp with his wife, nursing the sick, and burying eight of ten children. With Lucian Staiano-Daniels' The War People, a comparison with Götz von Berlichingen at the other end of the trade, and what one man's voice adds to series 6.</p><p><a href="https://claude.ai/artifact/V9Q8e584h2yK4fGMZBJ6Us">Script and sources</a></p>]]></description>
+      <itunes:summary>Series 6 special edition. Peter Hagendorf, a common soldier in the Thirty Years War, kept a pocket diary of 24 years of fighting for a living: shot twice at Magdeburg, forced into Swedish service at Straubing, back with his old company within the hour after Nördlingen, baking bread in a starving camp with his wife, nursing the sick, and burying eight of ten children. With Lucian Staiano-Daniels' The War People, a comparison with Götz von Berlichingen at the other end of the trade, and what one man's voice adds to series 6.
+
+Script and sources: https://claude.ai/artifact/V9Q8e584h2yK4fGMZBJ6Us</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/V9Q8e584h2yK4fGMZBJ6Us</link>
+    </item>
     <item>
       <title>48. The Taxman as Villain</title>
       <itunes:title>The Taxman as Villain</itunes:title>
