@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:49:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:03:22 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>52. Free, Bound or Born</title>
+      <itunes:title>Free, Bound or Born</itunes:title>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep52</guid>
+      <pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/52-free-bound-or-born.mp3" length="28612659" type="audio/mpeg"/>
+      <itunes:duration>3567</itunes:duration>
+      <description><![CDATA[<p>Were premodern soldiers mercenaries, slaves, hereditary warriors or conscripts? Series 6's second cross-analysis tests Erik-Jan Zürcher's typology of military labour against Thirty Years War colonels, mamluks and janissaries, Ming households and salaryman samurai, Russian recruits, Prussian cantonists, Swedish croft soldiers, sepoys and Hessians, and finds that almost nobody fits one box.</p><p><a href="https://claude.ai/artifact/Au7k9x7WEgbqXDCHHdGd78">Script and sources</a></p>]]></description>
+      <itunes:summary>Were premodern soldiers mercenaries, slaves, hereditary warriors or conscripts? Series 6's second cross-analysis tests Erik-Jan Zürcher's typology of military labour against Thirty Years War colonels, mamluks and janissaries, Ming households and salaryman samurai, Russian recruits, Prussian cantonists, Swedish croft soldiers, sepoys and Hessians, and finds that almost nobody fits one box.
+
+Script and sources: https://claude.ai/artifact/Au7k9x7WEgbqXDCHHdGd78</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/Au7k9x7WEgbqXDCHHdGd78</link>
+    </item>
     <item>
       <title>51. The End of Revenge</title>
       <itunes:title>The End of Revenge</itunes:title>
