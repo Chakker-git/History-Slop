@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 05:51:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 06:54:22 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>54. A Town on the March</title>
+      <itunes:title>A Town on the March</itunes:title>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep54</guid>
+      <pubDate>Mon, 23 Nov 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/54-a-town-on-the-march.mp3" length="26325987" type="audio/mpeg"/>
+      <itunes:duration>3282</itunes:duration>
+      <description><![CDATA[<p>Before 1650 an army was a moving town: wives, children, servant boys, sutlers, a judge, a provost and a hangman. Hagendorf's family and his bakery in a starving camp, a murdered officer's wife and a slander case about the breaking wheel, Russia's soldiers' wives, sepoy remittances, Mughal tent capitals and Qing Manchu cities, and why the camp shrank. Series 6 cross-analysis C.</p><p><a href="https://claude.ai/artifact/W9z7mJRPfDkS29V93Fibob">Script and sources</a></p>]]></description>
+      <itunes:summary>Before 1650 an army was a moving town: wives, children, servant boys, sutlers, a judge, a provost and a hangman. Hagendorf's family and his bakery in a starving camp, a murdered officer's wife and a slander case about the breaking wheel, Russia's soldiers' wives, sepoy remittances, Mughal tent capitals and Qing Manchu cities, and why the camp shrank. Series 6 cross-analysis C.
+
+Script and sources: https://claude.ai/artifact/W9z7mJRPfDkS29V93Fibob</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/W9z7mJRPfDkS29V93Fibob</link>
+    </item>
     <item>
       <title>53. Unwelcome Guests</title>
       <itunes:title>Unwelcome Guests</itunes:title>
