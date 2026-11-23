@@ -6,7 +6,7 @@
     <atom:link href="https://chakker-git.github.io/History-Slop/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 08:03:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:51:54 +0000</lastBuildDate>
     <itunes:author>Anna &amp; Rune</itunes:author>
     <itunes:summary>Hour-long two-host deep dives into contested questions in military, medieval and Asian history, built from real scholarship (including non-English research) and voiced by two synthetic hosts who know exactly what they are and occasionally apologise for their pronunciation. Every episode links its script and sources, so you can check the machine's homework.</itunes:summary>
     <itunes:image href="https://chakker-git.github.io/History-Slop/cover.jpg"/>
@@ -15,6 +15,22 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>53. Unwelcome Guests</title>
+      <itunes:title>Unwelcome Guests</itunes:title>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">history-slop-ep53</guid>
+      <pubDate>Mon, 23 Nov 2026 07:00:00 +0000</pubDate>
+      <enclosure url="https://chakker-git.github.io/History-Slop/episodes/53-unwelcome-guests.mp3" length="26519639" type="audio/mpeg"/>
+      <itunes:duration>3306</itunes:duration>
+      <description><![CDATA[<p>When premodern soldiers lived among civilians, were they guests, tax collectors, robbers or protectors? A burned village near Ulm, Lombard billets signed by Bernardo the Cat, Hagendorf's plunder, Picardy's underground refuges, armed ploughmen near Agra, Sengoku slave raids, a Ming proverb about combs, Russia's soldiers in peasant huts, and how pay, roads and barracks finally tamed the soldier. Series 6 cross-analysis D.</p><p><a href="https://claude.ai/artifact/1kg8YQ5tBhtyc2eEaFnZhm">Script and sources</a></p>]]></description>
+      <itunes:summary>When premodern soldiers lived among civilians, were they guests, tax collectors, robbers or protectors? A burned village near Ulm, Lombard billets signed by Bernardo the Cat, Hagendorf's plunder, Picardy's underground refuges, armed ploughmen near Agra, Sengoku slave raids, a Ming proverb about combs, Russia's soldiers in peasant huts, and how pay, roads and barracks finally tamed the soldier. Series 6 cross-analysis D.
+
+Script and sources: https://claude.ai/artifact/1kg8YQ5tBhtyc2eEaFnZhm</itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://claude.ai/artifact/1kg8YQ5tBhtyc2eEaFnZhm</link>
+    </item>
     <item>
       <title>52. Free, Bound or Born</title>
       <itunes:title>Free, Bound or Born</itunes:title>
